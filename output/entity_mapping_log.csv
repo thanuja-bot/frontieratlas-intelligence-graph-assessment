@@ -1,0 +1,1006 @@
+raw_name,canonical_name,confidence,match_method,entity_type
+Open AI,OpenAI,100.0,exact_normalized,STARTUP
+"OpenAI, Inc.",OpenAI,100.0,exact_normalized,STARTUP
+Anthropic LLC,Anthropic,100.0,exact_normalized,STARTUP
+Mistral-AI,Mistral AI,100.0,exact_normalized,STARTUP
+Unknown startup,Unknown startup,40.0,below_threshold,STARTUP
+OpenAI,OpenAI,100.0,exact_normalized,STARTUP
+Anthropic,Anthropic,100.0,exact_normalized,STARTUP
+Cohere,Cohere,100.0,exact_normalized,STARTUP
+Mistral AI,Mistral AI,100.0,exact_normalized,STARTUP
+Hugging Face,Hugging Face,100.0,exact_normalized,STARTUP
+Scale AI,Scale AI,100.0,exact_normalized,STARTUP
+Perplexity,Perplexity,100.0,exact_normalized,STARTUP
+Runway,Runway,100.0,exact_normalized,STARTUP
+Character AI,Character AI,100.0,exact_normalized,STARTUP
+Stability AI,Stability AI,100.0,exact_normalized,STARTUP
+ElevenLabs,ElevenLabs,100.0,exact_normalized,STARTUP
+Cursor,Cursor,100.0,exact_normalized,STARTUP
+Replit,Replit,100.0,exact_normalized,STARTUP
+Databricks,Databricks,100.0,exact_normalized,STARTUP
+Snowflake,Snowflake,100.0,exact_normalized,STARTUP
+NVIDIA,NVIDIA,100.0,exact_normalized,STARTUP
+DeepMind,DeepMind,100.0,exact_normalized,STARTUP
+xAI,xAI,100.0,exact_normalized,STARTUP
+Adept,Adept,100.0,exact_normalized,STARTUP
+Inflection,Inflection,100.0,exact_normalized,STARTUP
+Jasper,Jasper,100.0,exact_normalized,STARTUP
+Glean,Glean,100.0,exact_normalized,STARTUP
+Harvey,Harvey,100.0,exact_normalized,STARTUP
+Pika,Pika,100.0,exact_normalized,STARTUP
+Suno,Suno,100.0,exact_normalized,STARTUP
+Together AI,Together AI,100.0,exact_normalized,STARTUP
+Groq,Groq,100.0,exact_normalized,STARTUP
+Replicate,Replicate,100.0,exact_normalized,STARTUP
+Weights & Biases,Weights & Biases,100.0,exact_normalized,STARTUP
+LangChain,LangChain,100.0,exact_normalized,STARTUP
+Luma AI,Luma AI,100.0,exact_normalized,STARTUP
+Figure AI,Figure AI,100.0,exact_normalized,STARTUP
+Anduril,Anduril,100.0,exact_normalized,STARTUP
+Wayve,Wayve,100.0,exact_normalized,STARTUP
+Abridge,Abridge,100.0,exact_normalized,STARTUP
+Insitro,Insitro,100.0,exact_normalized,STARTUP
+Nscale,Nscale,100.0,exact_normalized,STARTUP
+Vanta,Vanta,100.0,exact_normalized,STARTUP
+Pinecone,Pinecone,100.0,exact_normalized,STARTUP
+Modal,Modal,100.0,exact_normalized,STARTUP
+Baseten,Baseten,100.0,exact_normalized,STARTUP
+Writer,Writer,100.0,exact_normalized,STARTUP
+Tome,Tome,100.0,exact_normalized,STARTUP
+Descript,Descript,100.0,exact_normalized,STARTUP
+AssemblyAI,AssemblyAI,100.0,exact_normalized,STARTUP
+DeepL,DeepL,100.0,exact_normalized,STARTUP
+Sakana AI,Sakana AI,100.0,exact_normalized,STARTUP
+Thinking Machines,Thinking Machines,100.0,exact_normalized,STARTUP
+Poolside,Poolside,100.0,exact_normalized,STARTUP
+Magic,Magic,100.0,exact_normalized,STARTUP
+OpenAI Labs 0051,OpenAI Labs 0051,60.0,below_threshold,STARTUP
+Anthropic Labs 0052,Anthropic Labs 0052,69.23,below_threshold,STARTUP
+Cohere Labs 0053,Cohere Labs 0053,60.0,below_threshold,STARTUP
+Mistral AI Labs 0054,Mistral AI Labs 0054,69.23,below_threshold,STARTUP
+Hugging Face Labs 0055,Hugging Face,73.33,rapidfuzz_ratio,STARTUP
+Scale AI Labs 0056,Scale AI Labs 0056,63.64,below_threshold,STARTUP
+Perplexity Labs 0057,Perplexity Labs 0057,71.43,below_threshold,STARTUP
+Runway Labs 0058,Runway Labs 0058,60.0,below_threshold,STARTUP
+Character AI Labs 0059,Character AI,73.33,rapidfuzz_ratio,STARTUP
+Stability AI Labs 0060,Stability AI,73.33,rapidfuzz_ratio,STARTUP
+ElevenLabs Labs 0061,ElevenLabs Labs 0061,71.43,below_threshold,STARTUP
+Cursor Labs 0062,Cursor Labs 0062,60.0,below_threshold,STARTUP
+Replit Labs 0063,Replit Labs 0063,60.0,below_threshold,STARTUP
+Databricks Labs 0064,Databricks Labs 0064,71.43,below_threshold,STARTUP
+Snowflake Labs 0065,Snowflake Labs 0065,69.23,below_threshold,STARTUP
+NVIDIA Labs 0066,NVIDIA Labs 0066,60.0,below_threshold,STARTUP
+DeepMind Labs 0067,DeepMind Labs 0067,66.67,below_threshold,STARTUP
+xAI Labs 0068,xAI Labs 0068,42.86,below_threshold,STARTUP
+Adept Labs 0069,Adept Labs 0069,55.56,below_threshold,STARTUP
+Inflection Labs 0070,Inflection Labs 0070,71.43,below_threshold,STARTUP
+Jasper Labs 0071,Jasper Labs 0071,60.0,below_threshold,STARTUP
+Glean Labs 0072,Glean Labs 0072,60.87,below_threshold,STARTUP
+Harvey Labs 0073,Harvey Labs 0073,60.0,below_threshold,STARTUP
+Pika Labs 0074,Pika Labs 0074,50.0,below_threshold,STARTUP
+Suno Labs 0075,Suno Labs 0075,50.0,below_threshold,STARTUP
+Together AI Labs 0076,Together AI Labs 0076,71.43,below_threshold,STARTUP
+Groq Labs 0077,Groq Labs 0077,50.0,below_threshold,STARTUP
+Replicate Labs 0078,Replicate Labs 0078,69.23,below_threshold,STARTUP
+Weights & Biases Labs 0079,Weights & Biases,80.0,rapidfuzz_ratio,STARTUP
+LangChain Labs 0080,LangChain Labs 0080,69.23,below_threshold,STARTUP
+Luma AI Labs 0081,Luma AI Labs 0081,60.0,below_threshold,STARTUP
+Figure AI Labs 0082,Figure AI Labs 0082,66.67,below_threshold,STARTUP
+Anduril Labs 0083,Anduril Labs 0083,63.64,below_threshold,STARTUP
+Wayve Labs 0084,Wayve Labs 0084,55.56,below_threshold,STARTUP
+Abridge Labs 0085,Abridge Labs 0085,63.64,below_threshold,STARTUP
+Insitro Labs 0086,Insitro Labs 0086,63.64,below_threshold,STARTUP
+Nscale Labs 0087,Nscale Labs 0087,60.0,below_threshold,STARTUP
+Vanta Labs 0088,Vanta Labs 0088,55.56,below_threshold,STARTUP
+Pinecone Labs 0089,Pinecone Labs 0089,66.67,below_threshold,STARTUP
+Modal Labs 0090,Modal Labs 0090,55.56,below_threshold,STARTUP
+Baseten Labs 0091,Baseten Labs 0091,63.64,below_threshold,STARTUP
+Writer Labs 0092,Writer Labs 0092,60.0,below_threshold,STARTUP
+Tome Labs 0093,Tome Labs 0093,50.0,below_threshold,STARTUP
+Descript Labs 0094,Descript Labs 0094,66.67,below_threshold,STARTUP
+AssemblyAI Labs 0095,AssemblyAI Labs 0095,71.43,below_threshold,STARTUP
+DeepL Labs 0096,DeepL Labs 0096,55.56,below_threshold,STARTUP
+Sakana AI Labs 0097,Sakana AI Labs 0097,66.67,below_threshold,STARTUP
+Thinking Machines Labs 0098,Thinking Machines,80.0,rapidfuzz_ratio,STARTUP
+Poolside Labs 0099,Poolside Labs 0099,66.67,below_threshold,STARTUP
+Magic Labs 0100,Magic Labs 0100,55.56,below_threshold,STARTUP
+OpenAI Labs 0101,OpenAI Labs 0101,60.0,below_threshold,STARTUP
+Anthropic Labs 0102,Anthropic Labs 0102,69.23,below_threshold,STARTUP
+Cohere Labs 0103,Cohere Labs 0103,60.0,below_threshold,STARTUP
+Mistral AI Labs 0104,Mistral AI Labs 0104,69.23,below_threshold,STARTUP
+Hugging Face Labs 0105,Hugging Face,73.33,rapidfuzz_ratio,STARTUP
+Scale AI Labs 0106,Scale AI Labs 0106,63.64,below_threshold,STARTUP
+Perplexity Labs 0107,Perplexity Labs 0107,71.43,below_threshold,STARTUP
+Runway Labs 0108,Runway Labs 0108,60.0,below_threshold,STARTUP
+Character AI Labs 0109,Character AI,73.33,rapidfuzz_ratio,STARTUP
+Stability AI Labs 0110,Stability AI,73.33,rapidfuzz_ratio,STARTUP
+ElevenLabs Labs 0111,ElevenLabs Labs 0111,71.43,below_threshold,STARTUP
+Cursor Labs 0112,Cursor Labs 0112,60.0,below_threshold,STARTUP
+Replit Labs 0113,Replit Labs 0113,60.0,below_threshold,STARTUP
+Databricks Labs 0114,Databricks Labs 0114,71.43,below_threshold,STARTUP
+Snowflake Labs 0115,Snowflake Labs 0115,69.23,below_threshold,STARTUP
+NVIDIA Labs 0116,NVIDIA Labs 0116,60.0,below_threshold,STARTUP
+DeepMind Labs 0117,DeepMind Labs 0117,66.67,below_threshold,STARTUP
+xAI Labs 0118,xAI Labs 0118,42.86,below_threshold,STARTUP
+Adept Labs 0119,Adept Labs 0119,55.56,below_threshold,STARTUP
+Inflection Labs 0120,Inflection Labs 0120,71.43,below_threshold,STARTUP
+Jasper Labs 0121,Jasper Labs 0121,60.0,below_threshold,STARTUP
+Glean Labs 0122,Glean Labs 0122,60.87,below_threshold,STARTUP
+Harvey Labs 0123,Harvey Labs 0123,60.0,below_threshold,STARTUP
+Pika Labs 0124,Pika Labs 0124,50.0,below_threshold,STARTUP
+Suno Labs 0125,Suno Labs 0125,50.0,below_threshold,STARTUP
+Together AI Labs 0126,Together AI Labs 0126,71.43,below_threshold,STARTUP
+Groq Labs 0127,Groq Labs 0127,50.0,below_threshold,STARTUP
+Replicate Labs 0128,Replicate Labs 0128,69.23,below_threshold,STARTUP
+Weights & Biases Labs 0129,Weights & Biases,80.0,rapidfuzz_ratio,STARTUP
+LangChain Labs 0130,LangChain Labs 0130,69.23,below_threshold,STARTUP
+Luma AI Labs 0131,Luma AI Labs 0131,60.0,below_threshold,STARTUP
+Figure AI Labs 0132,Figure AI Labs 0132,66.67,below_threshold,STARTUP
+Anduril Labs 0133,Anduril Labs 0133,63.64,below_threshold,STARTUP
+Wayve Labs 0134,Wayve Labs 0134,55.56,below_threshold,STARTUP
+Abridge Labs 0135,Abridge Labs 0135,63.64,below_threshold,STARTUP
+Insitro Labs 0136,Insitro Labs 0136,63.64,below_threshold,STARTUP
+Nscale Labs 0137,Nscale Labs 0137,60.0,below_threshold,STARTUP
+Vanta Labs 0138,Vanta Labs 0138,55.56,below_threshold,STARTUP
+Pinecone Labs 0139,Pinecone Labs 0139,66.67,below_threshold,STARTUP
+Modal Labs 0140,Modal Labs 0140,55.56,below_threshold,STARTUP
+Baseten Labs 0141,Baseten Labs 0141,63.64,below_threshold,STARTUP
+Writer Labs 0142,Writer Labs 0142,60.0,below_threshold,STARTUP
+Tome Labs 0143,Tome Labs 0143,50.0,below_threshold,STARTUP
+Descript Labs 0144,Descript Labs 0144,66.67,below_threshold,STARTUP
+AssemblyAI Labs 0145,AssemblyAI Labs 0145,71.43,below_threshold,STARTUP
+DeepL Labs 0146,DeepL Labs 0146,55.56,below_threshold,STARTUP
+Sakana AI Labs 0147,Sakana AI Labs 0147,66.67,below_threshold,STARTUP
+Thinking Machines Labs 0148,Thinking Machines,80.0,rapidfuzz_ratio,STARTUP
+Poolside Labs 0149,Poolside Labs 0149,66.67,below_threshold,STARTUP
+Magic Labs 0150,Magic Labs 0150,55.56,below_threshold,STARTUP
+OpenAI Labs 0151,OpenAI Labs 0151,60.0,below_threshold,STARTUP
+Anthropic Labs 0152,Anthropic Labs 0152,69.23,below_threshold,STARTUP
+Cohere Labs 0153,Cohere Labs 0153,60.0,below_threshold,STARTUP
+Mistral AI Labs 0154,Mistral AI Labs 0154,69.23,below_threshold,STARTUP
+Hugging Face Labs 0155,Hugging Face,73.33,rapidfuzz_ratio,STARTUP
+Scale AI Labs 0156,Scale AI Labs 0156,63.64,below_threshold,STARTUP
+Perplexity Labs 0157,Perplexity Labs 0157,71.43,below_threshold,STARTUP
+Runway Labs 0158,Runway Labs 0158,60.0,below_threshold,STARTUP
+Character AI Labs 0159,Character AI,73.33,rapidfuzz_ratio,STARTUP
+Stability AI Labs 0160,Stability AI,73.33,rapidfuzz_ratio,STARTUP
+ElevenLabs Labs 0161,ElevenLabs Labs 0161,71.43,below_threshold,STARTUP
+Cursor Labs 0162,Cursor Labs 0162,60.0,below_threshold,STARTUP
+Replit Labs 0163,Replit Labs 0163,60.0,below_threshold,STARTUP
+Databricks Labs 0164,Databricks Labs 0164,71.43,below_threshold,STARTUP
+Snowflake Labs 0165,Snowflake Labs 0165,69.23,below_threshold,STARTUP
+NVIDIA Labs 0166,NVIDIA Labs 0166,60.0,below_threshold,STARTUP
+DeepMind Labs 0167,DeepMind Labs 0167,66.67,below_threshold,STARTUP
+xAI Labs 0168,xAI Labs 0168,42.86,below_threshold,STARTUP
+Adept Labs 0169,Adept Labs 0169,55.56,below_threshold,STARTUP
+Inflection Labs 0170,Inflection Labs 0170,71.43,below_threshold,STARTUP
+Jasper Labs 0171,Jasper Labs 0171,60.0,below_threshold,STARTUP
+Glean Labs 0172,Glean Labs 0172,60.87,below_threshold,STARTUP
+Harvey Labs 0173,Harvey Labs 0173,60.0,below_threshold,STARTUP
+Pika Labs 0174,Pika Labs 0174,50.0,below_threshold,STARTUP
+Suno Labs 0175,Suno Labs 0175,50.0,below_threshold,STARTUP
+Together AI Labs 0176,Together AI Labs 0176,71.43,below_threshold,STARTUP
+Groq Labs 0177,Groq Labs 0177,50.0,below_threshold,STARTUP
+Replicate Labs 0178,Replicate Labs 0178,69.23,below_threshold,STARTUP
+Weights & Biases Labs 0179,Weights & Biases,80.0,rapidfuzz_ratio,STARTUP
+LangChain Labs 0180,LangChain Labs 0180,69.23,below_threshold,STARTUP
+Luma AI Labs 0181,Luma AI Labs 0181,60.0,below_threshold,STARTUP
+Figure AI Labs 0182,Figure AI Labs 0182,66.67,below_threshold,STARTUP
+Anduril Labs 0183,Anduril Labs 0183,63.64,below_threshold,STARTUP
+Wayve Labs 0184,Wayve Labs 0184,55.56,below_threshold,STARTUP
+Abridge Labs 0185,Abridge Labs 0185,63.64,below_threshold,STARTUP
+Insitro Labs 0186,Insitro Labs 0186,63.64,below_threshold,STARTUP
+Nscale Labs 0187,Nscale Labs 0187,60.0,below_threshold,STARTUP
+Vanta Labs 0188,Vanta Labs 0188,55.56,below_threshold,STARTUP
+Pinecone Labs 0189,Pinecone Labs 0189,66.67,below_threshold,STARTUP
+Modal Labs 0190,Modal Labs 0190,55.56,below_threshold,STARTUP
+Baseten Labs 0191,Baseten Labs 0191,63.64,below_threshold,STARTUP
+Writer Labs 0192,Writer Labs 0192,60.0,below_threshold,STARTUP
+Tome Labs 0193,Tome Labs 0193,50.0,below_threshold,STARTUP
+Descript Labs 0194,Descript Labs 0194,66.67,below_threshold,STARTUP
+AssemblyAI Labs 0195,AssemblyAI Labs 0195,71.43,below_threshold,STARTUP
+DeepL Labs 0196,DeepL Labs 0196,55.56,below_threshold,STARTUP
+Sakana AI Labs 0197,Sakana AI Labs 0197,66.67,below_threshold,STARTUP
+Thinking Machines Labs 0198,Thinking Machines,80.0,rapidfuzz_ratio,STARTUP
+Poolside Labs 0199,Poolside Labs 0199,66.67,below_threshold,STARTUP
+Magic Labs 0200,Magic Labs 0200,55.56,below_threshold,STARTUP
+OpenAI Labs 0201,OpenAI Labs 0201,60.0,below_threshold,STARTUP
+Anthropic Labs 0202,Anthropic Labs 0202,69.23,below_threshold,STARTUP
+Cohere Labs 0203,Cohere Labs 0203,60.0,below_threshold,STARTUP
+Mistral AI Labs 0204,Mistral AI Labs 0204,69.23,below_threshold,STARTUP
+Hugging Face Labs 0205,Hugging Face,73.33,rapidfuzz_ratio,STARTUP
+Scale AI Labs 0206,Scale AI Labs 0206,63.64,below_threshold,STARTUP
+Perplexity Labs 0207,Perplexity Labs 0207,71.43,below_threshold,STARTUP
+Runway Labs 0208,Runway Labs 0208,60.0,below_threshold,STARTUP
+Character AI Labs 0209,Character AI,73.33,rapidfuzz_ratio,STARTUP
+Stability AI Labs 0210,Stability AI,73.33,rapidfuzz_ratio,STARTUP
+ElevenLabs Labs 0211,ElevenLabs Labs 0211,71.43,below_threshold,STARTUP
+Cursor Labs 0212,Cursor Labs 0212,60.0,below_threshold,STARTUP
+Replit Labs 0213,Replit Labs 0213,60.0,below_threshold,STARTUP
+Databricks Labs 0214,Databricks Labs 0214,71.43,below_threshold,STARTUP
+Snowflake Labs 0215,Snowflake Labs 0215,69.23,below_threshold,STARTUP
+NVIDIA Labs 0216,NVIDIA Labs 0216,60.0,below_threshold,STARTUP
+DeepMind Labs 0217,DeepMind Labs 0217,66.67,below_threshold,STARTUP
+xAI Labs 0218,xAI Labs 0218,42.86,below_threshold,STARTUP
+Adept Labs 0219,Adept Labs 0219,55.56,below_threshold,STARTUP
+Inflection Labs 0220,Inflection Labs 0220,71.43,below_threshold,STARTUP
+Jasper Labs 0221,Jasper Labs 0221,60.0,below_threshold,STARTUP
+Glean Labs 0222,Glean Labs 0222,60.87,below_threshold,STARTUP
+Harvey Labs 0223,Harvey Labs 0223,60.0,below_threshold,STARTUP
+Pika Labs 0224,Pika Labs 0224,50.0,below_threshold,STARTUP
+Suno Labs 0225,Suno Labs 0225,50.0,below_threshold,STARTUP
+Together AI Labs 0226,Together AI Labs 0226,71.43,below_threshold,STARTUP
+Groq Labs 0227,Groq Labs 0227,50.0,below_threshold,STARTUP
+Replicate Labs 0228,Replicate Labs 0228,69.23,below_threshold,STARTUP
+Weights & Biases Labs 0229,Weights & Biases,80.0,rapidfuzz_ratio,STARTUP
+LangChain Labs 0230,LangChain Labs 0230,69.23,below_threshold,STARTUP
+Luma AI Labs 0231,Luma AI Labs 0231,60.0,below_threshold,STARTUP
+Figure AI Labs 0232,Figure AI Labs 0232,66.67,below_threshold,STARTUP
+Anduril Labs 0233,Anduril Labs 0233,63.64,below_threshold,STARTUP
+Wayve Labs 0234,Wayve Labs 0234,55.56,below_threshold,STARTUP
+Abridge Labs 0235,Abridge Labs 0235,63.64,below_threshold,STARTUP
+Insitro Labs 0236,Insitro Labs 0236,63.64,below_threshold,STARTUP
+Nscale Labs 0237,Nscale Labs 0237,60.0,below_threshold,STARTUP
+Vanta Labs 0238,Vanta Labs 0238,55.56,below_threshold,STARTUP
+Pinecone Labs 0239,Pinecone Labs 0239,66.67,below_threshold,STARTUP
+Modal Labs 0240,Modal Labs 0240,55.56,below_threshold,STARTUP
+Baseten Labs 0241,Baseten Labs 0241,63.64,below_threshold,STARTUP
+Writer Labs 0242,Writer Labs 0242,60.0,below_threshold,STARTUP
+Tome Labs 0243,Tome Labs 0243,50.0,below_threshold,STARTUP
+Descript Labs 0244,Descript Labs 0244,66.67,below_threshold,STARTUP
+AssemblyAI Labs 0245,AssemblyAI Labs 0245,71.43,below_threshold,STARTUP
+DeepL Labs 0246,DeepL Labs 0246,55.56,below_threshold,STARTUP
+Sakana AI Labs 0247,Sakana AI Labs 0247,66.67,below_threshold,STARTUP
+Thinking Machines Labs 0248,Thinking Machines,80.0,rapidfuzz_ratio,STARTUP
+Poolside Labs 0249,Poolside Labs 0249,66.67,below_threshold,STARTUP
+Magic Labs 0250,Magic Labs 0250,55.56,below_threshold,STARTUP
+OpenAI Labs 0251,OpenAI Labs 0251,60.0,below_threshold,STARTUP
+Anthropic Labs 0252,Anthropic Labs 0252,69.23,below_threshold,STARTUP
+Cohere Labs 0253,Cohere Labs 0253,60.0,below_threshold,STARTUP
+Mistral AI Labs 0254,Mistral AI Labs 0254,69.23,below_threshold,STARTUP
+Hugging Face Labs 0255,Hugging Face,73.33,rapidfuzz_ratio,STARTUP
+Scale AI Labs 0256,Scale AI Labs 0256,63.64,below_threshold,STARTUP
+Perplexity Labs 0257,Perplexity Labs 0257,71.43,below_threshold,STARTUP
+Runway Labs 0258,Runway Labs 0258,60.0,below_threshold,STARTUP
+Character AI Labs 0259,Character AI,73.33,rapidfuzz_ratio,STARTUP
+Stability AI Labs 0260,Stability AI,73.33,rapidfuzz_ratio,STARTUP
+ElevenLabs Labs 0261,ElevenLabs Labs 0261,71.43,below_threshold,STARTUP
+Cursor Labs 0262,Cursor Labs 0262,60.0,below_threshold,STARTUP
+Replit Labs 0263,Replit Labs 0263,60.0,below_threshold,STARTUP
+Databricks Labs 0264,Databricks Labs 0264,71.43,below_threshold,STARTUP
+Snowflake Labs 0265,Snowflake Labs 0265,69.23,below_threshold,STARTUP
+NVIDIA Labs 0266,NVIDIA Labs 0266,60.0,below_threshold,STARTUP
+DeepMind Labs 0267,DeepMind Labs 0267,66.67,below_threshold,STARTUP
+xAI Labs 0268,xAI Labs 0268,42.86,below_threshold,STARTUP
+Adept Labs 0269,Adept Labs 0269,55.56,below_threshold,STARTUP
+Inflection Labs 0270,Inflection Labs 0270,71.43,below_threshold,STARTUP
+Jasper Labs 0271,Jasper Labs 0271,60.0,below_threshold,STARTUP
+Glean Labs 0272,Glean Labs 0272,60.87,below_threshold,STARTUP
+Harvey Labs 0273,Harvey Labs 0273,60.0,below_threshold,STARTUP
+Pika Labs 0274,Pika Labs 0274,50.0,below_threshold,STARTUP
+Suno Labs 0275,Suno Labs 0275,50.0,below_threshold,STARTUP
+Together AI Labs 0276,Together AI Labs 0276,71.43,below_threshold,STARTUP
+Groq Labs 0277,Groq Labs 0277,50.0,below_threshold,STARTUP
+Replicate Labs 0278,Replicate Labs 0278,69.23,below_threshold,STARTUP
+Weights & Biases Labs 0279,Weights & Biases,80.0,rapidfuzz_ratio,STARTUP
+LangChain Labs 0280,LangChain Labs 0280,69.23,below_threshold,STARTUP
+Luma AI Labs 0281,Luma AI Labs 0281,60.0,below_threshold,STARTUP
+Figure AI Labs 0282,Figure AI Labs 0282,66.67,below_threshold,STARTUP
+Anduril Labs 0283,Anduril Labs 0283,63.64,below_threshold,STARTUP
+Wayve Labs 0284,Wayve Labs 0284,55.56,below_threshold,STARTUP
+Abridge Labs 0285,Abridge Labs 0285,63.64,below_threshold,STARTUP
+Insitro Labs 0286,Insitro Labs 0286,63.64,below_threshold,STARTUP
+Nscale Labs 0287,Nscale Labs 0287,60.0,below_threshold,STARTUP
+Vanta Labs 0288,Vanta Labs 0288,55.56,below_threshold,STARTUP
+Pinecone Labs 0289,Pinecone Labs 0289,66.67,below_threshold,STARTUP
+Modal Labs 0290,Modal Labs 0290,55.56,below_threshold,STARTUP
+Baseten Labs 0291,Baseten Labs 0291,63.64,below_threshold,STARTUP
+Writer Labs 0292,Writer Labs 0292,60.0,below_threshold,STARTUP
+Tome Labs 0293,Tome Labs 0293,50.0,below_threshold,STARTUP
+Descript Labs 0294,Descript Labs 0294,66.67,below_threshold,STARTUP
+AssemblyAI Labs 0295,AssemblyAI Labs 0295,71.43,below_threshold,STARTUP
+DeepL Labs 0296,DeepL Labs 0296,55.56,below_threshold,STARTUP
+Sakana AI Labs 0297,Sakana AI Labs 0297,66.67,below_threshold,STARTUP
+Thinking Machines Labs 0298,Thinking Machines,80.0,rapidfuzz_ratio,STARTUP
+Poolside Labs 0299,Poolside Labs 0299,66.67,below_threshold,STARTUP
+Magic Labs 0300,Magic Labs 0300,55.56,below_threshold,STARTUP
+OpenAI Labs 0301,OpenAI Labs 0301,60.0,below_threshold,STARTUP
+Anthropic Labs 0302,Anthropic Labs 0302,69.23,below_threshold,STARTUP
+Cohere Labs 0303,Cohere Labs 0303,60.0,below_threshold,STARTUP
+Mistral AI Labs 0304,Mistral AI Labs 0304,69.23,below_threshold,STARTUP
+Hugging Face Labs 0305,Hugging Face,73.33,rapidfuzz_ratio,STARTUP
+Scale AI Labs 0306,Scale AI Labs 0306,63.64,below_threshold,STARTUP
+Perplexity Labs 0307,Perplexity Labs 0307,71.43,below_threshold,STARTUP
+Runway Labs 0308,Runway Labs 0308,60.0,below_threshold,STARTUP
+Character AI Labs 0309,Character AI,73.33,rapidfuzz_ratio,STARTUP
+Stability AI Labs 0310,Stability AI,73.33,rapidfuzz_ratio,STARTUP
+ElevenLabs Labs 0311,ElevenLabs Labs 0311,71.43,below_threshold,STARTUP
+Cursor Labs 0312,Cursor Labs 0312,60.0,below_threshold,STARTUP
+Replit Labs 0313,Replit Labs 0313,60.0,below_threshold,STARTUP
+Databricks Labs 0314,Databricks Labs 0314,71.43,below_threshold,STARTUP
+Snowflake Labs 0315,Snowflake Labs 0315,69.23,below_threshold,STARTUP
+NVIDIA Labs 0316,NVIDIA Labs 0316,60.0,below_threshold,STARTUP
+DeepMind Labs 0317,DeepMind Labs 0317,66.67,below_threshold,STARTUP
+xAI Labs 0318,xAI Labs 0318,42.86,below_threshold,STARTUP
+Adept Labs 0319,Adept Labs 0319,55.56,below_threshold,STARTUP
+Inflection Labs 0320,Inflection Labs 0320,71.43,below_threshold,STARTUP
+Jasper Labs 0321,Jasper Labs 0321,60.0,below_threshold,STARTUP
+Glean Labs 0322,Glean Labs 0322,60.87,below_threshold,STARTUP
+Harvey Labs 0323,Harvey Labs 0323,60.0,below_threshold,STARTUP
+Pika Labs 0324,Pika Labs 0324,50.0,below_threshold,STARTUP
+Suno Labs 0325,Suno Labs 0325,50.0,below_threshold,STARTUP
+Together AI Labs 0326,Together AI Labs 0326,71.43,below_threshold,STARTUP
+Groq Labs 0327,Groq Labs 0327,50.0,below_threshold,STARTUP
+Replicate Labs 0328,Replicate Labs 0328,69.23,below_threshold,STARTUP
+Weights & Biases Labs 0329,Weights & Biases,80.0,rapidfuzz_ratio,STARTUP
+LangChain Labs 0330,LangChain Labs 0330,69.23,below_threshold,STARTUP
+Luma AI Labs 0331,Luma AI Labs 0331,60.0,below_threshold,STARTUP
+Figure AI Labs 0332,Figure AI Labs 0332,66.67,below_threshold,STARTUP
+Anduril Labs 0333,Anduril Labs 0333,63.64,below_threshold,STARTUP
+Wayve Labs 0334,Wayve Labs 0334,55.56,below_threshold,STARTUP
+Abridge Labs 0335,Abridge Labs 0335,63.64,below_threshold,STARTUP
+Insitro Labs 0336,Insitro Labs 0336,63.64,below_threshold,STARTUP
+Nscale Labs 0337,Nscale Labs 0337,60.0,below_threshold,STARTUP
+Vanta Labs 0338,Vanta Labs 0338,55.56,below_threshold,STARTUP
+Pinecone Labs 0339,Pinecone Labs 0339,66.67,below_threshold,STARTUP
+Modal Labs 0340,Modal Labs 0340,55.56,below_threshold,STARTUP
+Baseten Labs 0341,Baseten Labs 0341,63.64,below_threshold,STARTUP
+Writer Labs 0342,Writer Labs 0342,60.0,below_threshold,STARTUP
+Tome Labs 0343,Tome Labs 0343,50.0,below_threshold,STARTUP
+Descript Labs 0344,Descript Labs 0344,66.67,below_threshold,STARTUP
+AssemblyAI Labs 0345,AssemblyAI Labs 0345,71.43,below_threshold,STARTUP
+DeepL Labs 0346,DeepL Labs 0346,55.56,below_threshold,STARTUP
+Sakana AI Labs 0347,Sakana AI Labs 0347,66.67,below_threshold,STARTUP
+Thinking Machines Labs 0348,Thinking Machines,80.0,rapidfuzz_ratio,STARTUP
+Poolside Labs 0349,Poolside Labs 0349,66.67,below_threshold,STARTUP
+Magic Labs 0350,Magic Labs 0350,55.56,below_threshold,STARTUP
+OpenAI Labs 0351,OpenAI Labs 0351,60.0,below_threshold,STARTUP
+Anthropic Labs 0352,Anthropic Labs 0352,69.23,below_threshold,STARTUP
+Cohere Labs 0353,Cohere Labs 0353,60.0,below_threshold,STARTUP
+Mistral AI Labs 0354,Mistral AI Labs 0354,69.23,below_threshold,STARTUP
+Hugging Face Labs 0355,Hugging Face,73.33,rapidfuzz_ratio,STARTUP
+Scale AI Labs 0356,Scale AI Labs 0356,63.64,below_threshold,STARTUP
+Perplexity Labs 0357,Perplexity Labs 0357,71.43,below_threshold,STARTUP
+Runway Labs 0358,Runway Labs 0358,60.0,below_threshold,STARTUP
+Character AI Labs 0359,Character AI,73.33,rapidfuzz_ratio,STARTUP
+Stability AI Labs 0360,Stability AI,73.33,rapidfuzz_ratio,STARTUP
+ElevenLabs Labs 0361,ElevenLabs Labs 0361,71.43,below_threshold,STARTUP
+Cursor Labs 0362,Cursor Labs 0362,60.0,below_threshold,STARTUP
+Replit Labs 0363,Replit Labs 0363,60.0,below_threshold,STARTUP
+Databricks Labs 0364,Databricks Labs 0364,71.43,below_threshold,STARTUP
+Snowflake Labs 0365,Snowflake Labs 0365,69.23,below_threshold,STARTUP
+NVIDIA Labs 0366,NVIDIA Labs 0366,60.0,below_threshold,STARTUP
+DeepMind Labs 0367,DeepMind Labs 0367,66.67,below_threshold,STARTUP
+xAI Labs 0368,xAI Labs 0368,42.86,below_threshold,STARTUP
+Adept Labs 0369,Adept Labs 0369,55.56,below_threshold,STARTUP
+Inflection Labs 0370,Inflection Labs 0370,71.43,below_threshold,STARTUP
+Jasper Labs 0371,Jasper Labs 0371,60.0,below_threshold,STARTUP
+Glean Labs 0372,Glean Labs 0372,60.87,below_threshold,STARTUP
+Harvey Labs 0373,Harvey Labs 0373,60.0,below_threshold,STARTUP
+Pika Labs 0374,Pika Labs 0374,50.0,below_threshold,STARTUP
+Suno Labs 0375,Suno Labs 0375,50.0,below_threshold,STARTUP
+Together AI Labs 0376,Together AI Labs 0376,71.43,below_threshold,STARTUP
+Groq Labs 0377,Groq Labs 0377,50.0,below_threshold,STARTUP
+Replicate Labs 0378,Replicate Labs 0378,69.23,below_threshold,STARTUP
+Weights & Biases Labs 0379,Weights & Biases,80.0,rapidfuzz_ratio,STARTUP
+LangChain Labs 0380,LangChain Labs 0380,69.23,below_threshold,STARTUP
+Luma AI Labs 0381,Luma AI Labs 0381,60.0,below_threshold,STARTUP
+Figure AI Labs 0382,Figure AI Labs 0382,66.67,below_threshold,STARTUP
+Anduril Labs 0383,Anduril Labs 0383,63.64,below_threshold,STARTUP
+Wayve Labs 0384,Wayve Labs 0384,55.56,below_threshold,STARTUP
+Abridge Labs 0385,Abridge Labs 0385,63.64,below_threshold,STARTUP
+Insitro Labs 0386,Insitro Labs 0386,63.64,below_threshold,STARTUP
+Nscale Labs 0387,Nscale Labs 0387,60.0,below_threshold,STARTUP
+Vanta Labs 0388,Vanta Labs 0388,55.56,below_threshold,STARTUP
+Pinecone Labs 0389,Pinecone Labs 0389,66.67,below_threshold,STARTUP
+Modal Labs 0390,Modal Labs 0390,55.56,below_threshold,STARTUP
+Baseten Labs 0391,Baseten Labs 0391,63.64,below_threshold,STARTUP
+Writer Labs 0392,Writer Labs 0392,60.0,below_threshold,STARTUP
+Tome Labs 0393,Tome Labs 0393,50.0,below_threshold,STARTUP
+Descript Labs 0394,Descript Labs 0394,66.67,below_threshold,STARTUP
+AssemblyAI Labs 0395,AssemblyAI Labs 0395,71.43,below_threshold,STARTUP
+DeepL Labs 0396,DeepL Labs 0396,55.56,below_threshold,STARTUP
+Sakana AI Labs 0397,Sakana AI Labs 0397,66.67,below_threshold,STARTUP
+Thinking Machines Labs 0398,Thinking Machines,80.0,rapidfuzz_ratio,STARTUP
+Poolside Labs 0399,Poolside Labs 0399,66.67,below_threshold,STARTUP
+Magic Labs 0400,Magic Labs 0400,55.56,below_threshold,STARTUP
+OpenAI Labs 0401,OpenAI Labs 0401,60.0,below_threshold,STARTUP
+Anthropic Labs 0402,Anthropic Labs 0402,69.23,below_threshold,STARTUP
+Cohere Labs 0403,Cohere Labs 0403,60.0,below_threshold,STARTUP
+Mistral AI Labs 0404,Mistral AI Labs 0404,69.23,below_threshold,STARTUP
+Hugging Face Labs 0405,Hugging Face,73.33,rapidfuzz_ratio,STARTUP
+Scale AI Labs 0406,Scale AI Labs 0406,63.64,below_threshold,STARTUP
+Perplexity Labs 0407,Perplexity Labs 0407,71.43,below_threshold,STARTUP
+Runway Labs 0408,Runway Labs 0408,60.0,below_threshold,STARTUP
+Character AI Labs 0409,Character AI,73.33,rapidfuzz_ratio,STARTUP
+Stability AI Labs 0410,Stability AI,73.33,rapidfuzz_ratio,STARTUP
+ElevenLabs Labs 0411,ElevenLabs Labs 0411,71.43,below_threshold,STARTUP
+Cursor Labs 0412,Cursor Labs 0412,60.0,below_threshold,STARTUP
+Replit Labs 0413,Replit Labs 0413,60.0,below_threshold,STARTUP
+Databricks Labs 0414,Databricks Labs 0414,71.43,below_threshold,STARTUP
+Snowflake Labs 0415,Snowflake Labs 0415,69.23,below_threshold,STARTUP
+NVIDIA Labs 0416,NVIDIA Labs 0416,60.0,below_threshold,STARTUP
+DeepMind Labs 0417,DeepMind Labs 0417,66.67,below_threshold,STARTUP
+xAI Labs 0418,xAI Labs 0418,42.86,below_threshold,STARTUP
+Adept Labs 0419,Adept Labs 0419,55.56,below_threshold,STARTUP
+Inflection Labs 0420,Inflection Labs 0420,71.43,below_threshold,STARTUP
+Jasper Labs 0421,Jasper Labs 0421,60.0,below_threshold,STARTUP
+Glean Labs 0422,Glean Labs 0422,60.87,below_threshold,STARTUP
+Harvey Labs 0423,Harvey Labs 0423,60.0,below_threshold,STARTUP
+Pika Labs 0424,Pika Labs 0424,50.0,below_threshold,STARTUP
+Suno Labs 0425,Suno Labs 0425,50.0,below_threshold,STARTUP
+Together AI Labs 0426,Together AI Labs 0426,71.43,below_threshold,STARTUP
+Groq Labs 0427,Groq Labs 0427,50.0,below_threshold,STARTUP
+Replicate Labs 0428,Replicate Labs 0428,69.23,below_threshold,STARTUP
+Weights & Biases Labs 0429,Weights & Biases,80.0,rapidfuzz_ratio,STARTUP
+LangChain Labs 0430,LangChain Labs 0430,69.23,below_threshold,STARTUP
+Luma AI Labs 0431,Luma AI Labs 0431,60.0,below_threshold,STARTUP
+Figure AI Labs 0432,Figure AI Labs 0432,66.67,below_threshold,STARTUP
+Anduril Labs 0433,Anduril Labs 0433,63.64,below_threshold,STARTUP
+Wayve Labs 0434,Wayve Labs 0434,55.56,below_threshold,STARTUP
+Abridge Labs 0435,Abridge Labs 0435,63.64,below_threshold,STARTUP
+Insitro Labs 0436,Insitro Labs 0436,63.64,below_threshold,STARTUP
+Nscale Labs 0437,Nscale Labs 0437,60.0,below_threshold,STARTUP
+Vanta Labs 0438,Vanta Labs 0438,55.56,below_threshold,STARTUP
+Pinecone Labs 0439,Pinecone Labs 0439,66.67,below_threshold,STARTUP
+Modal Labs 0440,Modal Labs 0440,55.56,below_threshold,STARTUP
+Baseten Labs 0441,Baseten Labs 0441,63.64,below_threshold,STARTUP
+Writer Labs 0442,Writer Labs 0442,60.0,below_threshold,STARTUP
+Tome Labs 0443,Tome Labs 0443,50.0,below_threshold,STARTUP
+Descript Labs 0444,Descript Labs 0444,66.67,below_threshold,STARTUP
+AssemblyAI Labs 0445,AssemblyAI Labs 0445,71.43,below_threshold,STARTUP
+DeepL Labs 0446,DeepL Labs 0446,55.56,below_threshold,STARTUP
+Sakana AI Labs 0447,Sakana AI Labs 0447,66.67,below_threshold,STARTUP
+Thinking Machines Labs 0448,Thinking Machines,80.0,rapidfuzz_ratio,STARTUP
+Poolside Labs 0449,Poolside Labs 0449,66.67,below_threshold,STARTUP
+Magic Labs 0450,Magic Labs 0450,55.56,below_threshold,STARTUP
+OpenAI Labs 0451,OpenAI Labs 0451,60.0,below_threshold,STARTUP
+Anthropic Labs 0452,Anthropic Labs 0452,69.23,below_threshold,STARTUP
+Cohere Labs 0453,Cohere Labs 0453,60.0,below_threshold,STARTUP
+Mistral AI Labs 0454,Mistral AI Labs 0454,69.23,below_threshold,STARTUP
+Hugging Face Labs 0455,Hugging Face,73.33,rapidfuzz_ratio,STARTUP
+Scale AI Labs 0456,Scale AI Labs 0456,63.64,below_threshold,STARTUP
+Perplexity Labs 0457,Perplexity Labs 0457,71.43,below_threshold,STARTUP
+Runway Labs 0458,Runway Labs 0458,60.0,below_threshold,STARTUP
+Character AI Labs 0459,Character AI,73.33,rapidfuzz_ratio,STARTUP
+Stability AI Labs 0460,Stability AI,73.33,rapidfuzz_ratio,STARTUP
+ElevenLabs Labs 0461,ElevenLabs Labs 0461,71.43,below_threshold,STARTUP
+Cursor Labs 0462,Cursor Labs 0462,60.0,below_threshold,STARTUP
+Replit Labs 0463,Replit Labs 0463,60.0,below_threshold,STARTUP
+Databricks Labs 0464,Databricks Labs 0464,71.43,below_threshold,STARTUP
+Snowflake Labs 0465,Snowflake Labs 0465,69.23,below_threshold,STARTUP
+NVIDIA Labs 0466,NVIDIA Labs 0466,60.0,below_threshold,STARTUP
+DeepMind Labs 0467,DeepMind Labs 0467,66.67,below_threshold,STARTUP
+xAI Labs 0468,xAI Labs 0468,42.86,below_threshold,STARTUP
+Adept Labs 0469,Adept Labs 0469,55.56,below_threshold,STARTUP
+Inflection Labs 0470,Inflection Labs 0470,71.43,below_threshold,STARTUP
+Jasper Labs 0471,Jasper Labs 0471,60.0,below_threshold,STARTUP
+Glean Labs 0472,Glean Labs 0472,60.87,below_threshold,STARTUP
+Harvey Labs 0473,Harvey Labs 0473,60.0,below_threshold,STARTUP
+Pika Labs 0474,Pika Labs 0474,50.0,below_threshold,STARTUP
+Suno Labs 0475,Suno Labs 0475,50.0,below_threshold,STARTUP
+Together AI Labs 0476,Together AI Labs 0476,71.43,below_threshold,STARTUP
+Groq Labs 0477,Groq Labs 0477,50.0,below_threshold,STARTUP
+Replicate Labs 0478,Replicate Labs 0478,69.23,below_threshold,STARTUP
+Weights & Biases Labs 0479,Weights & Biases,80.0,rapidfuzz_ratio,STARTUP
+LangChain Labs 0480,LangChain Labs 0480,69.23,below_threshold,STARTUP
+Luma AI Labs 0481,Luma AI Labs 0481,60.0,below_threshold,STARTUP
+Figure AI Labs 0482,Figure AI Labs 0482,66.67,below_threshold,STARTUP
+Anduril Labs 0483,Anduril Labs 0483,63.64,below_threshold,STARTUP
+Wayve Labs 0484,Wayve Labs 0484,55.56,below_threshold,STARTUP
+Abridge Labs 0485,Abridge Labs 0485,63.64,below_threshold,STARTUP
+Insitro Labs 0486,Insitro Labs 0486,63.64,below_threshold,STARTUP
+Nscale Labs 0487,Nscale Labs 0487,60.0,below_threshold,STARTUP
+Vanta Labs 0488,Vanta Labs 0488,55.56,below_threshold,STARTUP
+Pinecone Labs 0489,Pinecone Labs 0489,66.67,below_threshold,STARTUP
+Modal Labs 0490,Modal Labs 0490,55.56,below_threshold,STARTUP
+Baseten Labs 0491,Baseten Labs 0491,63.64,below_threshold,STARTUP
+Writer Labs 0492,Writer Labs 0492,60.0,below_threshold,STARTUP
+Tome Labs 0493,Tome Labs 0493,50.0,below_threshold,STARTUP
+Descript Labs 0494,Descript Labs 0494,66.67,below_threshold,STARTUP
+AssemblyAI Labs 0495,AssemblyAI Labs 0495,71.43,below_threshold,STARTUP
+DeepL Labs 0496,DeepL Labs 0496,55.56,below_threshold,STARTUP
+Sakana AI Labs 0497,Sakana AI Labs 0497,66.67,below_threshold,STARTUP
+Thinking Machines Labs 0498,Thinking Machines,80.0,rapidfuzz_ratio,STARTUP
+Poolside Labs 0499,Poolside Labs 0499,66.67,below_threshold,STARTUP
+Magic Labs 0500,Magic Labs 0500,55.56,below_threshold,STARTUP
+OpenAI Labs 0501,OpenAI Labs 0501,60.0,below_threshold,STARTUP
+Anthropic Labs 0502,Anthropic Labs 0502,69.23,below_threshold,STARTUP
+Cohere Labs 0503,Cohere Labs 0503,60.0,below_threshold,STARTUP
+Mistral AI Labs 0504,Mistral AI Labs 0504,69.23,below_threshold,STARTUP
+Hugging Face Labs 0505,Hugging Face,73.33,rapidfuzz_ratio,STARTUP
+Scale AI Labs 0506,Scale AI Labs 0506,63.64,below_threshold,STARTUP
+Perplexity Labs 0507,Perplexity Labs 0507,71.43,below_threshold,STARTUP
+Runway Labs 0508,Runway Labs 0508,60.0,below_threshold,STARTUP
+Character AI Labs 0509,Character AI,73.33,rapidfuzz_ratio,STARTUP
+Stability AI Labs 0510,Stability AI,73.33,rapidfuzz_ratio,STARTUP
+ElevenLabs Labs 0511,ElevenLabs Labs 0511,71.43,below_threshold,STARTUP
+Cursor Labs 0512,Cursor Labs 0512,60.0,below_threshold,STARTUP
+Replit Labs 0513,Replit Labs 0513,60.0,below_threshold,STARTUP
+Databricks Labs 0514,Databricks Labs 0514,71.43,below_threshold,STARTUP
+Snowflake Labs 0515,Snowflake Labs 0515,69.23,below_threshold,STARTUP
+NVIDIA Labs 0516,NVIDIA Labs 0516,60.0,below_threshold,STARTUP
+DeepMind Labs 0517,DeepMind Labs 0517,66.67,below_threshold,STARTUP
+xAI Labs 0518,xAI Labs 0518,42.86,below_threshold,STARTUP
+Adept Labs 0519,Adept Labs 0519,55.56,below_threshold,STARTUP
+Inflection Labs 0520,Inflection Labs 0520,71.43,below_threshold,STARTUP
+Jasper Labs 0521,Jasper Labs 0521,60.0,below_threshold,STARTUP
+Glean Labs 0522,Glean Labs 0522,60.87,below_threshold,STARTUP
+Harvey Labs 0523,Harvey Labs 0523,60.0,below_threshold,STARTUP
+Pika Labs 0524,Pika Labs 0524,50.0,below_threshold,STARTUP
+Suno Labs 0525,Suno Labs 0525,50.0,below_threshold,STARTUP
+Together AI Labs 0526,Together AI Labs 0526,71.43,below_threshold,STARTUP
+Groq Labs 0527,Groq Labs 0527,50.0,below_threshold,STARTUP
+Replicate Labs 0528,Replicate Labs 0528,69.23,below_threshold,STARTUP
+Weights & Biases Labs 0529,Weights & Biases,80.0,rapidfuzz_ratio,STARTUP
+LangChain Labs 0530,LangChain Labs 0530,69.23,below_threshold,STARTUP
+Luma AI Labs 0531,Luma AI Labs 0531,60.0,below_threshold,STARTUP
+Figure AI Labs 0532,Figure AI Labs 0532,66.67,below_threshold,STARTUP
+Anduril Labs 0533,Anduril Labs 0533,63.64,below_threshold,STARTUP
+Wayve Labs 0534,Wayve Labs 0534,55.56,below_threshold,STARTUP
+Abridge Labs 0535,Abridge Labs 0535,63.64,below_threshold,STARTUP
+Insitro Labs 0536,Insitro Labs 0536,63.64,below_threshold,STARTUP
+Nscale Labs 0537,Nscale Labs 0537,60.0,below_threshold,STARTUP
+Vanta Labs 0538,Vanta Labs 0538,55.56,below_threshold,STARTUP
+Pinecone Labs 0539,Pinecone Labs 0539,66.67,below_threshold,STARTUP
+Modal Labs 0540,Modal Labs 0540,55.56,below_threshold,STARTUP
+Baseten Labs 0541,Baseten Labs 0541,63.64,below_threshold,STARTUP
+Writer Labs 0542,Writer Labs 0542,60.0,below_threshold,STARTUP
+Tome Labs 0543,Tome Labs 0543,50.0,below_threshold,STARTUP
+Descript Labs 0544,Descript Labs 0544,66.67,below_threshold,STARTUP
+AssemblyAI Labs 0545,AssemblyAI Labs 0545,71.43,below_threshold,STARTUP
+DeepL Labs 0546,DeepL Labs 0546,55.56,below_threshold,STARTUP
+Sakana AI Labs 0547,Sakana AI Labs 0547,66.67,below_threshold,STARTUP
+Thinking Machines Labs 0548,Thinking Machines,80.0,rapidfuzz_ratio,STARTUP
+Poolside Labs 0549,Poolside Labs 0549,66.67,below_threshold,STARTUP
+Magic Labs 0550,Magic Labs 0550,55.56,below_threshold,STARTUP
+OpenAI Labs 0551,OpenAI Labs 0551,60.0,below_threshold,STARTUP
+Anthropic Labs 0552,Anthropic Labs 0552,69.23,below_threshold,STARTUP
+Cohere Labs 0553,Cohere Labs 0553,60.0,below_threshold,STARTUP
+Mistral AI Labs 0554,Mistral AI Labs 0554,69.23,below_threshold,STARTUP
+Hugging Face Labs 0555,Hugging Face,73.33,rapidfuzz_ratio,STARTUP
+Scale AI Labs 0556,Scale AI Labs 0556,63.64,below_threshold,STARTUP
+Perplexity Labs 0557,Perplexity Labs 0557,71.43,below_threshold,STARTUP
+Runway Labs 0558,Runway Labs 0558,60.0,below_threshold,STARTUP
+Character AI Labs 0559,Character AI,73.33,rapidfuzz_ratio,STARTUP
+Stability AI Labs 0560,Stability AI,73.33,rapidfuzz_ratio,STARTUP
+ElevenLabs Labs 0561,ElevenLabs Labs 0561,71.43,below_threshold,STARTUP
+Cursor Labs 0562,Cursor Labs 0562,60.0,below_threshold,STARTUP
+Replit Labs 0563,Replit Labs 0563,60.0,below_threshold,STARTUP
+Databricks Labs 0564,Databricks Labs 0564,71.43,below_threshold,STARTUP
+Snowflake Labs 0565,Snowflake Labs 0565,69.23,below_threshold,STARTUP
+NVIDIA Labs 0566,NVIDIA Labs 0566,60.0,below_threshold,STARTUP
+DeepMind Labs 0567,DeepMind Labs 0567,66.67,below_threshold,STARTUP
+xAI Labs 0568,xAI Labs 0568,42.86,below_threshold,STARTUP
+Adept Labs 0569,Adept Labs 0569,55.56,below_threshold,STARTUP
+Inflection Labs 0570,Inflection Labs 0570,71.43,below_threshold,STARTUP
+Jasper Labs 0571,Jasper Labs 0571,60.0,below_threshold,STARTUP
+Glean Labs 0572,Glean Labs 0572,60.87,below_threshold,STARTUP
+Harvey Labs 0573,Harvey Labs 0573,60.0,below_threshold,STARTUP
+Pika Labs 0574,Pika Labs 0574,50.0,below_threshold,STARTUP
+Suno Labs 0575,Suno Labs 0575,50.0,below_threshold,STARTUP
+Together AI Labs 0576,Together AI Labs 0576,71.43,below_threshold,STARTUP
+Groq Labs 0577,Groq Labs 0577,50.0,below_threshold,STARTUP
+Replicate Labs 0578,Replicate Labs 0578,69.23,below_threshold,STARTUP
+Weights & Biases Labs 0579,Weights & Biases,80.0,rapidfuzz_ratio,STARTUP
+LangChain Labs 0580,LangChain Labs 0580,69.23,below_threshold,STARTUP
+Luma AI Labs 0581,Luma AI Labs 0581,60.0,below_threshold,STARTUP
+Figure AI Labs 0582,Figure AI Labs 0582,66.67,below_threshold,STARTUP
+Anduril Labs 0583,Anduril Labs 0583,63.64,below_threshold,STARTUP
+Wayve Labs 0584,Wayve Labs 0584,55.56,below_threshold,STARTUP
+Abridge Labs 0585,Abridge Labs 0585,63.64,below_threshold,STARTUP
+Insitro Labs 0586,Insitro Labs 0586,63.64,below_threshold,STARTUP
+Nscale Labs 0587,Nscale Labs 0587,60.0,below_threshold,STARTUP
+Vanta Labs 0588,Vanta Labs 0588,55.56,below_threshold,STARTUP
+Pinecone Labs 0589,Pinecone Labs 0589,66.67,below_threshold,STARTUP
+Modal Labs 0590,Modal Labs 0590,55.56,below_threshold,STARTUP
+Baseten Labs 0591,Baseten Labs 0591,63.64,below_threshold,STARTUP
+Writer Labs 0592,Writer Labs 0592,60.0,below_threshold,STARTUP
+Tome Labs 0593,Tome Labs 0593,50.0,below_threshold,STARTUP
+Descript Labs 0594,Descript Labs 0594,66.67,below_threshold,STARTUP
+AssemblyAI Labs 0595,AssemblyAI Labs 0595,71.43,below_threshold,STARTUP
+DeepL Labs 0596,DeepL Labs 0596,55.56,below_threshold,STARTUP
+Sakana AI Labs 0597,Sakana AI Labs 0597,66.67,below_threshold,STARTUP
+Thinking Machines Labs 0598,Thinking Machines,80.0,rapidfuzz_ratio,STARTUP
+Poolside Labs 0599,Poolside Labs 0599,66.67,below_threshold,STARTUP
+Magic Labs 0600,Magic Labs 0600,55.56,below_threshold,STARTUP
+OpenAI Labs 0601,OpenAI Labs 0601,60.0,below_threshold,STARTUP
+Anthropic Labs 0602,Anthropic Labs 0602,69.23,below_threshold,STARTUP
+Cohere Labs 0603,Cohere Labs 0603,60.0,below_threshold,STARTUP
+Mistral AI Labs 0604,Mistral AI Labs 0604,69.23,below_threshold,STARTUP
+Hugging Face Labs 0605,Hugging Face,73.33,rapidfuzz_ratio,STARTUP
+Scale AI Labs 0606,Scale AI Labs 0606,63.64,below_threshold,STARTUP
+Perplexity Labs 0607,Perplexity Labs 0607,71.43,below_threshold,STARTUP
+Runway Labs 0608,Runway Labs 0608,60.0,below_threshold,STARTUP
+Character AI Labs 0609,Character AI,73.33,rapidfuzz_ratio,STARTUP
+Stability AI Labs 0610,Stability AI,73.33,rapidfuzz_ratio,STARTUP
+ElevenLabs Labs 0611,ElevenLabs Labs 0611,71.43,below_threshold,STARTUP
+Cursor Labs 0612,Cursor Labs 0612,60.0,below_threshold,STARTUP
+Replit Labs 0613,Replit Labs 0613,60.0,below_threshold,STARTUP
+Databricks Labs 0614,Databricks Labs 0614,71.43,below_threshold,STARTUP
+Snowflake Labs 0615,Snowflake Labs 0615,69.23,below_threshold,STARTUP
+NVIDIA Labs 0616,NVIDIA Labs 0616,60.0,below_threshold,STARTUP
+DeepMind Labs 0617,DeepMind Labs 0617,66.67,below_threshold,STARTUP
+xAI Labs 0618,xAI Labs 0618,42.86,below_threshold,STARTUP
+Adept Labs 0619,Adept Labs 0619,55.56,below_threshold,STARTUP
+Inflection Labs 0620,Inflection Labs 0620,71.43,below_threshold,STARTUP
+Jasper Labs 0621,Jasper Labs 0621,60.0,below_threshold,STARTUP
+Glean Labs 0622,Glean Labs 0622,60.87,below_threshold,STARTUP
+Harvey Labs 0623,Harvey Labs 0623,60.0,below_threshold,STARTUP
+Pika Labs 0624,Pika Labs 0624,50.0,below_threshold,STARTUP
+Suno Labs 0625,Suno Labs 0625,50.0,below_threshold,STARTUP
+Together AI Labs 0626,Together AI Labs 0626,71.43,below_threshold,STARTUP
+Groq Labs 0627,Groq Labs 0627,50.0,below_threshold,STARTUP
+Replicate Labs 0628,Replicate Labs 0628,69.23,below_threshold,STARTUP
+Weights & Biases Labs 0629,Weights & Biases,80.0,rapidfuzz_ratio,STARTUP
+LangChain Labs 0630,LangChain Labs 0630,69.23,below_threshold,STARTUP
+Luma AI Labs 0631,Luma AI Labs 0631,60.0,below_threshold,STARTUP
+Figure AI Labs 0632,Figure AI Labs 0632,66.67,below_threshold,STARTUP
+Anduril Labs 0633,Anduril Labs 0633,63.64,below_threshold,STARTUP
+Wayve Labs 0634,Wayve Labs 0634,55.56,below_threshold,STARTUP
+Abridge Labs 0635,Abridge Labs 0635,63.64,below_threshold,STARTUP
+Insitro Labs 0636,Insitro Labs 0636,63.64,below_threshold,STARTUP
+Nscale Labs 0637,Nscale Labs 0637,60.0,below_threshold,STARTUP
+Vanta Labs 0638,Vanta Labs 0638,55.56,below_threshold,STARTUP
+Pinecone Labs 0639,Pinecone Labs 0639,66.67,below_threshold,STARTUP
+Modal Labs 0640,Modal Labs 0640,55.56,below_threshold,STARTUP
+Baseten Labs 0641,Baseten Labs 0641,63.64,below_threshold,STARTUP
+Writer Labs 0642,Writer Labs 0642,60.0,below_threshold,STARTUP
+Tome Labs 0643,Tome Labs 0643,50.0,below_threshold,STARTUP
+Descript Labs 0644,Descript Labs 0644,66.67,below_threshold,STARTUP
+AssemblyAI Labs 0645,AssemblyAI Labs 0645,71.43,below_threshold,STARTUP
+DeepL Labs 0646,DeepL Labs 0646,55.56,below_threshold,STARTUP
+Sakana AI Labs 0647,Sakana AI Labs 0647,66.67,below_threshold,STARTUP
+Thinking Machines Labs 0648,Thinking Machines,80.0,rapidfuzz_ratio,STARTUP
+Poolside Labs 0649,Poolside Labs 0649,66.67,below_threshold,STARTUP
+Magic Labs 0650,Magic Labs 0650,55.56,below_threshold,STARTUP
+OpenAI Labs 0651,OpenAI Labs 0651,60.0,below_threshold,STARTUP
+Anthropic Labs 0652,Anthropic Labs 0652,69.23,below_threshold,STARTUP
+Cohere Labs 0653,Cohere Labs 0653,60.0,below_threshold,STARTUP
+Mistral AI Labs 0654,Mistral AI Labs 0654,69.23,below_threshold,STARTUP
+Hugging Face Labs 0655,Hugging Face,73.33,rapidfuzz_ratio,STARTUP
+Scale AI Labs 0656,Scale AI Labs 0656,63.64,below_threshold,STARTUP
+Perplexity Labs 0657,Perplexity Labs 0657,71.43,below_threshold,STARTUP
+Runway Labs 0658,Runway Labs 0658,60.0,below_threshold,STARTUP
+Character AI Labs 0659,Character AI,73.33,rapidfuzz_ratio,STARTUP
+Stability AI Labs 0660,Stability AI,73.33,rapidfuzz_ratio,STARTUP
+ElevenLabs Labs 0661,ElevenLabs Labs 0661,71.43,below_threshold,STARTUP
+Cursor Labs 0662,Cursor Labs 0662,60.0,below_threshold,STARTUP
+Replit Labs 0663,Replit Labs 0663,60.0,below_threshold,STARTUP
+Databricks Labs 0664,Databricks Labs 0664,71.43,below_threshold,STARTUP
+Snowflake Labs 0665,Snowflake Labs 0665,69.23,below_threshold,STARTUP
+NVIDIA Labs 0666,NVIDIA Labs 0666,60.0,below_threshold,STARTUP
+DeepMind Labs 0667,DeepMind Labs 0667,66.67,below_threshold,STARTUP
+xAI Labs 0668,xAI Labs 0668,42.86,below_threshold,STARTUP
+Adept Labs 0669,Adept Labs 0669,55.56,below_threshold,STARTUP
+Inflection Labs 0670,Inflection Labs 0670,71.43,below_threshold,STARTUP
+Jasper Labs 0671,Jasper Labs 0671,60.0,below_threshold,STARTUP
+Glean Labs 0672,Glean Labs 0672,60.87,below_threshold,STARTUP
+Harvey Labs 0673,Harvey Labs 0673,60.0,below_threshold,STARTUP
+Pika Labs 0674,Pika Labs 0674,50.0,below_threshold,STARTUP
+Suno Labs 0675,Suno Labs 0675,50.0,below_threshold,STARTUP
+Together AI Labs 0676,Together AI Labs 0676,71.43,below_threshold,STARTUP
+Groq Labs 0677,Groq Labs 0677,50.0,below_threshold,STARTUP
+Replicate Labs 0678,Replicate Labs 0678,69.23,below_threshold,STARTUP
+Weights & Biases Labs 0679,Weights & Biases,80.0,rapidfuzz_ratio,STARTUP
+LangChain Labs 0680,LangChain Labs 0680,69.23,below_threshold,STARTUP
+Luma AI Labs 0681,Luma AI Labs 0681,60.0,below_threshold,STARTUP
+Figure AI Labs 0682,Figure AI Labs 0682,66.67,below_threshold,STARTUP
+Anduril Labs 0683,Anduril Labs 0683,63.64,below_threshold,STARTUP
+Wayve Labs 0684,Wayve Labs 0684,55.56,below_threshold,STARTUP
+Abridge Labs 0685,Abridge Labs 0685,63.64,below_threshold,STARTUP
+Insitro Labs 0686,Insitro Labs 0686,63.64,below_threshold,STARTUP
+Nscale Labs 0687,Nscale Labs 0687,60.0,below_threshold,STARTUP
+Vanta Labs 0688,Vanta Labs 0688,55.56,below_threshold,STARTUP
+Pinecone Labs 0689,Pinecone Labs 0689,66.67,below_threshold,STARTUP
+Modal Labs 0690,Modal Labs 0690,55.56,below_threshold,STARTUP
+Baseten Labs 0691,Baseten Labs 0691,63.64,below_threshold,STARTUP
+Writer Labs 0692,Writer Labs 0692,60.0,below_threshold,STARTUP
+Tome Labs 0693,Tome Labs 0693,50.0,below_threshold,STARTUP
+Descript Labs 0694,Descript Labs 0694,66.67,below_threshold,STARTUP
+AssemblyAI Labs 0695,AssemblyAI Labs 0695,71.43,below_threshold,STARTUP
+DeepL Labs 0696,DeepL Labs 0696,55.56,below_threshold,STARTUP
+Sakana AI Labs 0697,Sakana AI Labs 0697,66.67,below_threshold,STARTUP
+Thinking Machines Labs 0698,Thinking Machines,80.0,rapidfuzz_ratio,STARTUP
+Poolside Labs 0699,Poolside Labs 0699,66.67,below_threshold,STARTUP
+Magic Labs 0700,Magic Labs 0700,55.56,below_threshold,STARTUP
+OpenAI Labs 0701,OpenAI Labs 0701,60.0,below_threshold,STARTUP
+Anthropic Labs 0702,Anthropic Labs 0702,69.23,below_threshold,STARTUP
+Cohere Labs 0703,Cohere Labs 0703,60.0,below_threshold,STARTUP
+Mistral AI Labs 0704,Mistral AI Labs 0704,69.23,below_threshold,STARTUP
+Hugging Face Labs 0705,Hugging Face,73.33,rapidfuzz_ratio,STARTUP
+Scale AI Labs 0706,Scale AI Labs 0706,63.64,below_threshold,STARTUP
+Perplexity Labs 0707,Perplexity Labs 0707,71.43,below_threshold,STARTUP
+Runway Labs 0708,Runway Labs 0708,60.0,below_threshold,STARTUP
+Character AI Labs 0709,Character AI,73.33,rapidfuzz_ratio,STARTUP
+Stability AI Labs 0710,Stability AI,73.33,rapidfuzz_ratio,STARTUP
+ElevenLabs Labs 0711,ElevenLabs Labs 0711,71.43,below_threshold,STARTUP
+Cursor Labs 0712,Cursor Labs 0712,60.0,below_threshold,STARTUP
+Replit Labs 0713,Replit Labs 0713,60.0,below_threshold,STARTUP
+Databricks Labs 0714,Databricks Labs 0714,71.43,below_threshold,STARTUP
+Snowflake Labs 0715,Snowflake Labs 0715,69.23,below_threshold,STARTUP
+NVIDIA Labs 0716,NVIDIA Labs 0716,60.0,below_threshold,STARTUP
+DeepMind Labs 0717,DeepMind Labs 0717,66.67,below_threshold,STARTUP
+xAI Labs 0718,xAI Labs 0718,42.86,below_threshold,STARTUP
+Adept Labs 0719,Adept Labs 0719,55.56,below_threshold,STARTUP
+Inflection Labs 0720,Inflection Labs 0720,71.43,below_threshold,STARTUP
+Jasper Labs 0721,Jasper Labs 0721,60.0,below_threshold,STARTUP
+Glean Labs 0722,Glean Labs 0722,60.87,below_threshold,STARTUP
+Harvey Labs 0723,Harvey Labs 0723,60.0,below_threshold,STARTUP
+Pika Labs 0724,Pika Labs 0724,50.0,below_threshold,STARTUP
+Suno Labs 0725,Suno Labs 0725,50.0,below_threshold,STARTUP
+Together AI Labs 0726,Together AI Labs 0726,71.43,below_threshold,STARTUP
+Groq Labs 0727,Groq Labs 0727,50.0,below_threshold,STARTUP
+Replicate Labs 0728,Replicate Labs 0728,69.23,below_threshold,STARTUP
+Weights & Biases Labs 0729,Weights & Biases,80.0,rapidfuzz_ratio,STARTUP
+LangChain Labs 0730,LangChain Labs 0730,69.23,below_threshold,STARTUP
+Luma AI Labs 0731,Luma AI Labs 0731,60.0,below_threshold,STARTUP
+Figure AI Labs 0732,Figure AI Labs 0732,66.67,below_threshold,STARTUP
+Anduril Labs 0733,Anduril Labs 0733,63.64,below_threshold,STARTUP
+Wayve Labs 0734,Wayve Labs 0734,55.56,below_threshold,STARTUP
+Abridge Labs 0735,Abridge Labs 0735,63.64,below_threshold,STARTUP
+Insitro Labs 0736,Insitro Labs 0736,63.64,below_threshold,STARTUP
+Nscale Labs 0737,Nscale Labs 0737,60.0,below_threshold,STARTUP
+Vanta Labs 0738,Vanta Labs 0738,55.56,below_threshold,STARTUP
+Pinecone Labs 0739,Pinecone Labs 0739,66.67,below_threshold,STARTUP
+Modal Labs 0740,Modal Labs 0740,55.56,below_threshold,STARTUP
+Baseten Labs 0741,Baseten Labs 0741,63.64,below_threshold,STARTUP
+Writer Labs 0742,Writer Labs 0742,60.0,below_threshold,STARTUP
+Tome Labs 0743,Tome Labs 0743,50.0,below_threshold,STARTUP
+Descript Labs 0744,Descript Labs 0744,66.67,below_threshold,STARTUP
+AssemblyAI Labs 0745,AssemblyAI Labs 0745,71.43,below_threshold,STARTUP
+DeepL Labs 0746,DeepL Labs 0746,55.56,below_threshold,STARTUP
+Sakana AI Labs 0747,Sakana AI Labs 0747,66.67,below_threshold,STARTUP
+Thinking Machines Labs 0748,Thinking Machines,80.0,rapidfuzz_ratio,STARTUP
+Poolside Labs 0749,Poolside Labs 0749,66.67,below_threshold,STARTUP
+Magic Labs 0750,Magic Labs 0750,55.56,below_threshold,STARTUP
+OpenAI Labs 0751,OpenAI Labs 0751,60.0,below_threshold,STARTUP
+Anthropic Labs 0752,Anthropic Labs 0752,69.23,below_threshold,STARTUP
+Cohere Labs 0753,Cohere Labs 0753,60.0,below_threshold,STARTUP
+Mistral AI Labs 0754,Mistral AI Labs 0754,69.23,below_threshold,STARTUP
+Hugging Face Labs 0755,Hugging Face,73.33,rapidfuzz_ratio,STARTUP
+Scale AI Labs 0756,Scale AI Labs 0756,63.64,below_threshold,STARTUP
+Perplexity Labs 0757,Perplexity Labs 0757,71.43,below_threshold,STARTUP
+Runway Labs 0758,Runway Labs 0758,60.0,below_threshold,STARTUP
+Character AI Labs 0759,Character AI,73.33,rapidfuzz_ratio,STARTUP
+Stability AI Labs 0760,Stability AI,73.33,rapidfuzz_ratio,STARTUP
+ElevenLabs Labs 0761,ElevenLabs Labs 0761,71.43,below_threshold,STARTUP
+Cursor Labs 0762,Cursor Labs 0762,60.0,below_threshold,STARTUP
+Replit Labs 0763,Replit Labs 0763,60.0,below_threshold,STARTUP
+Databricks Labs 0764,Databricks Labs 0764,71.43,below_threshold,STARTUP
+Snowflake Labs 0765,Snowflake Labs 0765,69.23,below_threshold,STARTUP
+NVIDIA Labs 0766,NVIDIA Labs 0766,60.0,below_threshold,STARTUP
+DeepMind Labs 0767,DeepMind Labs 0767,66.67,below_threshold,STARTUP
+xAI Labs 0768,xAI Labs 0768,42.86,below_threshold,STARTUP
+Adept Labs 0769,Adept Labs 0769,55.56,below_threshold,STARTUP
+Inflection Labs 0770,Inflection Labs 0770,71.43,below_threshold,STARTUP
+Jasper Labs 0771,Jasper Labs 0771,60.0,below_threshold,STARTUP
+Glean Labs 0772,Glean Labs 0772,60.87,below_threshold,STARTUP
+Harvey Labs 0773,Harvey Labs 0773,60.0,below_threshold,STARTUP
+Pika Labs 0774,Pika Labs 0774,50.0,below_threshold,STARTUP
+Suno Labs 0775,Suno Labs 0775,50.0,below_threshold,STARTUP
+Together AI Labs 0776,Together AI Labs 0776,71.43,below_threshold,STARTUP
+Groq Labs 0777,Groq Labs 0777,50.0,below_threshold,STARTUP
+Replicate Labs 0778,Replicate Labs 0778,69.23,below_threshold,STARTUP
+Weights & Biases Labs 0779,Weights & Biases,80.0,rapidfuzz_ratio,STARTUP
+LangChain Labs 0780,LangChain Labs 0780,69.23,below_threshold,STARTUP
+Luma AI Labs 0781,Luma AI Labs 0781,60.0,below_threshold,STARTUP
+Figure AI Labs 0782,Figure AI Labs 0782,66.67,below_threshold,STARTUP
+Anduril Labs 0783,Anduril Labs 0783,63.64,below_threshold,STARTUP
+Wayve Labs 0784,Wayve Labs 0784,55.56,below_threshold,STARTUP
+Abridge Labs 0785,Abridge Labs 0785,63.64,below_threshold,STARTUP
+Insitro Labs 0786,Insitro Labs 0786,63.64,below_threshold,STARTUP
+Nscale Labs 0787,Nscale Labs 0787,60.0,below_threshold,STARTUP
+Vanta Labs 0788,Vanta Labs 0788,55.56,below_threshold,STARTUP
+Pinecone Labs 0789,Pinecone Labs 0789,66.67,below_threshold,STARTUP
+Modal Labs 0790,Modal Labs 0790,55.56,below_threshold,STARTUP
+Baseten Labs 0791,Baseten Labs 0791,63.64,below_threshold,STARTUP
+Writer Labs 0792,Writer Labs 0792,60.0,below_threshold,STARTUP
+Tome Labs 0793,Tome Labs 0793,50.0,below_threshold,STARTUP
+Descript Labs 0794,Descript Labs 0794,66.67,below_threshold,STARTUP
+AssemblyAI Labs 0795,AssemblyAI Labs 0795,71.43,below_threshold,STARTUP
+DeepL Labs 0796,DeepL Labs 0796,55.56,below_threshold,STARTUP
+Sakana AI Labs 0797,Sakana AI Labs 0797,66.67,below_threshold,STARTUP
+Thinking Machines Labs 0798,Thinking Machines,80.0,rapidfuzz_ratio,STARTUP
+Poolside Labs 0799,Poolside Labs 0799,66.67,below_threshold,STARTUP
+Magic Labs 0800,Magic Labs 0800,55.56,below_threshold,STARTUP
+OpenAI Labs 0801,OpenAI Labs 0801,60.0,below_threshold,STARTUP
+Anthropic Labs 0802,Anthropic Labs 0802,69.23,below_threshold,STARTUP
+Cohere Labs 0803,Cohere Labs 0803,60.0,below_threshold,STARTUP
+Mistral AI Labs 0804,Mistral AI Labs 0804,69.23,below_threshold,STARTUP
+Hugging Face Labs 0805,Hugging Face,73.33,rapidfuzz_ratio,STARTUP
+Scale AI Labs 0806,Scale AI Labs 0806,63.64,below_threshold,STARTUP
+Perplexity Labs 0807,Perplexity Labs 0807,71.43,below_threshold,STARTUP
+Runway Labs 0808,Runway Labs 0808,60.0,below_threshold,STARTUP
+Character AI Labs 0809,Character AI,73.33,rapidfuzz_ratio,STARTUP
+Stability AI Labs 0810,Stability AI,73.33,rapidfuzz_ratio,STARTUP
+ElevenLabs Labs 0811,ElevenLabs Labs 0811,71.43,below_threshold,STARTUP
+Cursor Labs 0812,Cursor Labs 0812,60.0,below_threshold,STARTUP
+Replit Labs 0813,Replit Labs 0813,60.0,below_threshold,STARTUP
+Databricks Labs 0814,Databricks Labs 0814,71.43,below_threshold,STARTUP
+Snowflake Labs 0815,Snowflake Labs 0815,69.23,below_threshold,STARTUP
+NVIDIA Labs 0816,NVIDIA Labs 0816,60.0,below_threshold,STARTUP
+DeepMind Labs 0817,DeepMind Labs 0817,66.67,below_threshold,STARTUP
+xAI Labs 0818,xAI Labs 0818,42.86,below_threshold,STARTUP
+Adept Labs 0819,Adept Labs 0819,55.56,below_threshold,STARTUP
+Inflection Labs 0820,Inflection Labs 0820,71.43,below_threshold,STARTUP
+Jasper Labs 0821,Jasper Labs 0821,60.0,below_threshold,STARTUP
+Glean Labs 0822,Glean Labs 0822,60.87,below_threshold,STARTUP
+Harvey Labs 0823,Harvey Labs 0823,60.0,below_threshold,STARTUP
+Pika Labs 0824,Pika Labs 0824,50.0,below_threshold,STARTUP
+Suno Labs 0825,Suno Labs 0825,50.0,below_threshold,STARTUP
+Together AI Labs 0826,Together AI Labs 0826,71.43,below_threshold,STARTUP
+Groq Labs 0827,Groq Labs 0827,50.0,below_threshold,STARTUP
+Replicate Labs 0828,Replicate Labs 0828,69.23,below_threshold,STARTUP
+Weights & Biases Labs 0829,Weights & Biases,80.0,rapidfuzz_ratio,STARTUP
+LangChain Labs 0830,LangChain Labs 0830,69.23,below_threshold,STARTUP
+Luma AI Labs 0831,Luma AI Labs 0831,60.0,below_threshold,STARTUP
+Figure AI Labs 0832,Figure AI Labs 0832,66.67,below_threshold,STARTUP
+Anduril Labs 0833,Anduril Labs 0833,63.64,below_threshold,STARTUP
+Wayve Labs 0834,Wayve Labs 0834,55.56,below_threshold,STARTUP
+Abridge Labs 0835,Abridge Labs 0835,63.64,below_threshold,STARTUP
+Insitro Labs 0836,Insitro Labs 0836,63.64,below_threshold,STARTUP
+Nscale Labs 0837,Nscale Labs 0837,60.0,below_threshold,STARTUP
+Vanta Labs 0838,Vanta Labs 0838,55.56,below_threshold,STARTUP
+Pinecone Labs 0839,Pinecone Labs 0839,66.67,below_threshold,STARTUP
+Modal Labs 0840,Modal Labs 0840,55.56,below_threshold,STARTUP
+Baseten Labs 0841,Baseten Labs 0841,63.64,below_threshold,STARTUP
+Writer Labs 0842,Writer Labs 0842,60.0,below_threshold,STARTUP
+Tome Labs 0843,Tome Labs 0843,50.0,below_threshold,STARTUP
+Descript Labs 0844,Descript Labs 0844,66.67,below_threshold,STARTUP
+AssemblyAI Labs 0845,AssemblyAI Labs 0845,71.43,below_threshold,STARTUP
+DeepL Labs 0846,DeepL Labs 0846,55.56,below_threshold,STARTUP
+Sakana AI Labs 0847,Sakana AI Labs 0847,66.67,below_threshold,STARTUP
+Thinking Machines Labs 0848,Thinking Machines,80.0,rapidfuzz_ratio,STARTUP
+Poolside Labs 0849,Poolside Labs 0849,66.67,below_threshold,STARTUP
+Magic Labs 0850,Magic Labs 0850,55.56,below_threshold,STARTUP
+OpenAI Labs 0851,OpenAI Labs 0851,60.0,below_threshold,STARTUP
+Anthropic Labs 0852,Anthropic Labs 0852,69.23,below_threshold,STARTUP
+Cohere Labs 0853,Cohere Labs 0853,60.0,below_threshold,STARTUP
+Mistral AI Labs 0854,Mistral AI Labs 0854,69.23,below_threshold,STARTUP
+Hugging Face Labs 0855,Hugging Face,73.33,rapidfuzz_ratio,STARTUP
+Scale AI Labs 0856,Scale AI Labs 0856,63.64,below_threshold,STARTUP
+Perplexity Labs 0857,Perplexity Labs 0857,71.43,below_threshold,STARTUP
+Runway Labs 0858,Runway Labs 0858,60.0,below_threshold,STARTUP
+Character AI Labs 0859,Character AI,73.33,rapidfuzz_ratio,STARTUP
+Stability AI Labs 0860,Stability AI,73.33,rapidfuzz_ratio,STARTUP
+ElevenLabs Labs 0861,ElevenLabs Labs 0861,71.43,below_threshold,STARTUP
+Cursor Labs 0862,Cursor Labs 0862,60.0,below_threshold,STARTUP
+Replit Labs 0863,Replit Labs 0863,60.0,below_threshold,STARTUP
+Databricks Labs 0864,Databricks Labs 0864,71.43,below_threshold,STARTUP
+Snowflake Labs 0865,Snowflake Labs 0865,69.23,below_threshold,STARTUP
+NVIDIA Labs 0866,NVIDIA Labs 0866,60.0,below_threshold,STARTUP
+DeepMind Labs 0867,DeepMind Labs 0867,66.67,below_threshold,STARTUP
+xAI Labs 0868,xAI Labs 0868,42.86,below_threshold,STARTUP
+Adept Labs 0869,Adept Labs 0869,55.56,below_threshold,STARTUP
+Inflection Labs 0870,Inflection Labs 0870,71.43,below_threshold,STARTUP
+Jasper Labs 0871,Jasper Labs 0871,60.0,below_threshold,STARTUP
+Glean Labs 0872,Glean Labs 0872,60.87,below_threshold,STARTUP
+Harvey Labs 0873,Harvey Labs 0873,60.0,below_threshold,STARTUP
+Pika Labs 0874,Pika Labs 0874,50.0,below_threshold,STARTUP
+Suno Labs 0875,Suno Labs 0875,50.0,below_threshold,STARTUP
+Together AI Labs 0876,Together AI Labs 0876,71.43,below_threshold,STARTUP
+Groq Labs 0877,Groq Labs 0877,50.0,below_threshold,STARTUP
+Replicate Labs 0878,Replicate Labs 0878,69.23,below_threshold,STARTUP
+Weights & Biases Labs 0879,Weights & Biases,80.0,rapidfuzz_ratio,STARTUP
+LangChain Labs 0880,LangChain Labs 0880,69.23,below_threshold,STARTUP
+Luma AI Labs 0881,Luma AI Labs 0881,60.0,below_threshold,STARTUP
+Figure AI Labs 0882,Figure AI Labs 0882,66.67,below_threshold,STARTUP
+Anduril Labs 0883,Anduril Labs 0883,63.64,below_threshold,STARTUP
+Wayve Labs 0884,Wayve Labs 0884,55.56,below_threshold,STARTUP
+Abridge Labs 0885,Abridge Labs 0885,63.64,below_threshold,STARTUP
+Insitro Labs 0886,Insitro Labs 0886,63.64,below_threshold,STARTUP
+Nscale Labs 0887,Nscale Labs 0887,60.0,below_threshold,STARTUP
+Vanta Labs 0888,Vanta Labs 0888,55.56,below_threshold,STARTUP
+Pinecone Labs 0889,Pinecone Labs 0889,66.67,below_threshold,STARTUP
+Modal Labs 0890,Modal Labs 0890,55.56,below_threshold,STARTUP
+Baseten Labs 0891,Baseten Labs 0891,63.64,below_threshold,STARTUP
+Writer Labs 0892,Writer Labs 0892,60.0,below_threshold,STARTUP
+Tome Labs 0893,Tome Labs 0893,50.0,below_threshold,STARTUP
+Descript Labs 0894,Descript Labs 0894,66.67,below_threshold,STARTUP
+AssemblyAI Labs 0895,AssemblyAI Labs 0895,71.43,below_threshold,STARTUP
+DeepL Labs 0896,DeepL Labs 0896,55.56,below_threshold,STARTUP
+Sakana AI Labs 0897,Sakana AI Labs 0897,66.67,below_threshold,STARTUP
+Thinking Machines Labs 0898,Thinking Machines,80.0,rapidfuzz_ratio,STARTUP
+Poolside Labs 0899,Poolside Labs 0899,66.67,below_threshold,STARTUP
+Magic Labs 0900,Magic Labs 0900,55.56,below_threshold,STARTUP
+OpenAI Labs 0901,OpenAI Labs 0901,60.0,below_threshold,STARTUP
+Anthropic Labs 0902,Anthropic Labs 0902,69.23,below_threshold,STARTUP
+Cohere Labs 0903,Cohere Labs 0903,60.0,below_threshold,STARTUP
+Mistral AI Labs 0904,Mistral AI Labs 0904,69.23,below_threshold,STARTUP
+Hugging Face Labs 0905,Hugging Face,73.33,rapidfuzz_ratio,STARTUP
+Scale AI Labs 0906,Scale AI Labs 0906,63.64,below_threshold,STARTUP
+Perplexity Labs 0907,Perplexity Labs 0907,71.43,below_threshold,STARTUP
+Runway Labs 0908,Runway Labs 0908,60.0,below_threshold,STARTUP
+Character AI Labs 0909,Character AI,73.33,rapidfuzz_ratio,STARTUP
+Stability AI Labs 0910,Stability AI,73.33,rapidfuzz_ratio,STARTUP
+ElevenLabs Labs 0911,ElevenLabs Labs 0911,71.43,below_threshold,STARTUP
+Cursor Labs 0912,Cursor Labs 0912,60.0,below_threshold,STARTUP
+Replit Labs 0913,Replit Labs 0913,60.0,below_threshold,STARTUP
+Databricks Labs 0914,Databricks Labs 0914,71.43,below_threshold,STARTUP
+Snowflake Labs 0915,Snowflake Labs 0915,69.23,below_threshold,STARTUP
+NVIDIA Labs 0916,NVIDIA Labs 0916,60.0,below_threshold,STARTUP
+DeepMind Labs 0917,DeepMind Labs 0917,66.67,below_threshold,STARTUP
+xAI Labs 0918,xAI Labs 0918,42.86,below_threshold,STARTUP
+Adept Labs 0919,Adept Labs 0919,55.56,below_threshold,STARTUP
+Inflection Labs 0920,Inflection Labs 0920,71.43,below_threshold,STARTUP
+Jasper Labs 0921,Jasper Labs 0921,60.0,below_threshold,STARTUP
+Glean Labs 0922,Glean Labs 0922,60.87,below_threshold,STARTUP
+Harvey Labs 0923,Harvey Labs 0923,60.0,below_threshold,STARTUP
+Pika Labs 0924,Pika Labs 0924,50.0,below_threshold,STARTUP
+Suno Labs 0925,Suno Labs 0925,50.0,below_threshold,STARTUP
+Together AI Labs 0926,Together AI Labs 0926,71.43,below_threshold,STARTUP
+Groq Labs 0927,Groq Labs 0927,50.0,below_threshold,STARTUP
+Replicate Labs 0928,Replicate Labs 0928,69.23,below_threshold,STARTUP
+Weights & Biases Labs 0929,Weights & Biases,80.0,rapidfuzz_ratio,STARTUP
+LangChain Labs 0930,LangChain Labs 0930,69.23,below_threshold,STARTUP
+Luma AI Labs 0931,Luma AI Labs 0931,60.0,below_threshold,STARTUP
+Figure AI Labs 0932,Figure AI Labs 0932,66.67,below_threshold,STARTUP
+Anduril Labs 0933,Anduril Labs 0933,63.64,below_threshold,STARTUP
+Wayve Labs 0934,Wayve Labs 0934,55.56,below_threshold,STARTUP
+Abridge Labs 0935,Abridge Labs 0935,63.64,below_threshold,STARTUP
+Insitro Labs 0936,Insitro Labs 0936,63.64,below_threshold,STARTUP
+Nscale Labs 0937,Nscale Labs 0937,60.0,below_threshold,STARTUP
+Vanta Labs 0938,Vanta Labs 0938,55.56,below_threshold,STARTUP
+Pinecone Labs 0939,Pinecone Labs 0939,66.67,below_threshold,STARTUP
+Modal Labs 0940,Modal Labs 0940,55.56,below_threshold,STARTUP
+Baseten Labs 0941,Baseten Labs 0941,63.64,below_threshold,STARTUP
+Writer Labs 0942,Writer Labs 0942,60.0,below_threshold,STARTUP
+Tome Labs 0943,Tome Labs 0943,50.0,below_threshold,STARTUP
+Descript Labs 0944,Descript Labs 0944,66.67,below_threshold,STARTUP
+AssemblyAI Labs 0945,AssemblyAI Labs 0945,71.43,below_threshold,STARTUP
+DeepL Labs 0946,DeepL Labs 0946,55.56,below_threshold,STARTUP
+Sakana AI Labs 0947,Sakana AI Labs 0947,66.67,below_threshold,STARTUP
+Thinking Machines Labs 0948,Thinking Machines,80.0,rapidfuzz_ratio,STARTUP
+Poolside Labs 0949,Poolside Labs 0949,66.67,below_threshold,STARTUP
+Magic Labs 0950,Magic Labs 0950,55.56,below_threshold,STARTUP
+OpenAI Labs 0951,OpenAI Labs 0951,60.0,below_threshold,STARTUP
+Anthropic Labs 0952,Anthropic Labs 0952,69.23,below_threshold,STARTUP
+Cohere Labs 0953,Cohere Labs 0953,60.0,below_threshold,STARTUP
+Mistral AI Labs 0954,Mistral AI Labs 0954,69.23,below_threshold,STARTUP
+Hugging Face Labs 0955,Hugging Face,73.33,rapidfuzz_ratio,STARTUP
+Scale AI Labs 0956,Scale AI Labs 0956,63.64,below_threshold,STARTUP
+Perplexity Labs 0957,Perplexity Labs 0957,71.43,below_threshold,STARTUP
+Runway Labs 0958,Runway Labs 0958,60.0,below_threshold,STARTUP
+Character AI Labs 0959,Character AI,73.33,rapidfuzz_ratio,STARTUP
+Stability AI Labs 0960,Stability AI,73.33,rapidfuzz_ratio,STARTUP
+ElevenLabs Labs 0961,ElevenLabs Labs 0961,71.43,below_threshold,STARTUP
+Cursor Labs 0962,Cursor Labs 0962,60.0,below_threshold,STARTUP
+Replit Labs 0963,Replit Labs 0963,60.0,below_threshold,STARTUP
+Databricks Labs 0964,Databricks Labs 0964,71.43,below_threshold,STARTUP
+Snowflake Labs 0965,Snowflake Labs 0965,69.23,below_threshold,STARTUP
+NVIDIA Labs 0966,NVIDIA Labs 0966,60.0,below_threshold,STARTUP
+DeepMind Labs 0967,DeepMind Labs 0967,66.67,below_threshold,STARTUP
+xAI Labs 0968,xAI Labs 0968,42.86,below_threshold,STARTUP
+Adept Labs 0969,Adept Labs 0969,55.56,below_threshold,STARTUP
+Inflection Labs 0970,Inflection Labs 0970,71.43,below_threshold,STARTUP
+Jasper Labs 0971,Jasper Labs 0971,60.0,below_threshold,STARTUP
+Glean Labs 0972,Glean Labs 0972,60.87,below_threshold,STARTUP
+Harvey Labs 0973,Harvey Labs 0973,60.0,below_threshold,STARTUP
+Pika Labs 0974,Pika Labs 0974,50.0,below_threshold,STARTUP
+Suno Labs 0975,Suno Labs 0975,50.0,below_threshold,STARTUP
+Together AI Labs 0976,Together AI Labs 0976,71.43,below_threshold,STARTUP
+Groq Labs 0977,Groq Labs 0977,50.0,below_threshold,STARTUP
+Replicate Labs 0978,Replicate Labs 0978,69.23,below_threshold,STARTUP
+Weights & Biases Labs 0979,Weights & Biases,80.0,rapidfuzz_ratio,STARTUP
+LangChain Labs 0980,LangChain Labs 0980,69.23,below_threshold,STARTUP
+Luma AI Labs 0981,Luma AI Labs 0981,60.0,below_threshold,STARTUP
+Figure AI Labs 0982,Figure AI Labs 0982,66.67,below_threshold,STARTUP
+Anduril Labs 0983,Anduril Labs 0983,63.64,below_threshold,STARTUP
+Wayve Labs 0984,Wayve Labs 0984,55.56,below_threshold,STARTUP
+Abridge Labs 0985,Abridge Labs 0985,63.64,below_threshold,STARTUP
+Insitro Labs 0986,Insitro Labs 0986,63.64,below_threshold,STARTUP
+Nscale Labs 0987,Nscale Labs 0987,60.0,below_threshold,STARTUP
+Vanta Labs 0988,Vanta Labs 0988,55.56,below_threshold,STARTUP
+Pinecone Labs 0989,Pinecone Labs 0989,66.67,below_threshold,STARTUP
+Modal Labs 0990,Modal Labs 0990,55.56,below_threshold,STARTUP
+Baseten Labs 0991,Baseten Labs 0991,63.64,below_threshold,STARTUP
+Writer Labs 0992,Writer Labs 0992,60.0,below_threshold,STARTUP
+Tome Labs 0993,Tome Labs 0993,50.0,below_threshold,STARTUP
+Descript Labs 0994,Descript Labs 0994,66.67,below_threshold,STARTUP
+AssemblyAI Labs 0995,AssemblyAI Labs 0995,71.43,below_threshold,STARTUP
+DeepL Labs 0996,DeepL Labs 0996,55.56,below_threshold,STARTUP
+Sakana AI Labs 0997,Sakana AI Labs 0997,66.67,below_threshold,STARTUP
+Thinking Machines Labs 0998,Thinking Machines,80.0,rapidfuzz_ratio,STARTUP
+Poolside Labs 0999,Poolside Labs 0999,66.67,below_threshold,STARTUP
+Magic Labs 1000,Magic Labs 1000,55.56,below_threshold,STARTUP
