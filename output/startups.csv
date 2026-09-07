@@ -1,0 +1,1001 @@
+schemaVersion,recordType,source.name,source.url,content.entityName,content.data.employeeCount,collectedAt
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/openai,OpenAI,22,2026-09-07T09:16:03.449949Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anthropic,Anthropic,39,2026-09-07T09:16:03.449975Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cohere,Cohere,56,2026-09-07T09:16:03.449981Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/mistral-ai,Mistral AI,73,2026-09-07T09:16:03.449986Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/hugging-face,Hugging Face,90,2026-09-07T09:16:03.449991Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/scale-ai,Scale AI,107,2026-09-07T09:16:03.449995Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/perplexity,Perplexity,124,2026-09-07T09:16:03.449999Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/runway,Runway,141,2026-09-07T09:16:03.450003Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/character-ai,Character AI,158,2026-09-07T09:16:03.450007Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/stability-ai,Stability AI,175,2026-09-07T09:16:03.450012Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/elevenlabs,ElevenLabs,192,2026-09-07T09:16:03.450016Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cursor,Cursor,209,2026-09-07T09:16:03.450020Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replit,Replit,226,2026-09-07T09:16:03.450023Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/databricks,Databricks,243,2026-09-07T09:16:03.450027Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/snowflake,Snowflake,260,2026-09-07T09:16:03.450032Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nvidia,NVIDIA,277,2026-09-07T09:16:03.450036Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepmind,DeepMind,294,2026-09-07T09:16:03.450040Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/xai,xAI,311,2026-09-07T09:16:03.450044Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/adept,Adept,328,2026-09-07T09:16:03.450048Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/inflection,Inflection,345,2026-09-07T09:16:03.450051Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/jasper,Jasper,362,2026-09-07T09:16:03.450055Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/glean,Glean,379,2026-09-07T09:16:03.450058Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/harvey,Harvey,396,2026-09-07T09:16:03.450062Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pika,Pika,413,2026-09-07T09:16:03.450065Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/suno,Suno,430,2026-09-07T09:16:03.450068Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/together-ai,Together AI,447,2026-09-07T09:16:03.450072Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/groq,Groq,464,2026-09-07T09:16:03.450076Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replicate,Replicate,481,2026-09-07T09:16:03.450080Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/weights---biases,Weights & Biases,498,2026-09-07T09:16:03.450085Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/langchain,LangChain,515,2026-09-07T09:16:03.450089Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/luma-ai,Luma AI,532,2026-09-07T09:16:03.450092Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/figure-ai,Figure AI,549,2026-09-07T09:16:03.450096Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anduril,Anduril,566,2026-09-07T09:16:03.450101Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/wayve,Wayve,583,2026-09-07T09:16:03.450104Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/abridge,Abridge,600,2026-09-07T09:16:03.450108Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/insitro,Insitro,617,2026-09-07T09:16:03.450111Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nscale,Nscale,634,2026-09-07T09:16:03.450115Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/vanta,Vanta,651,2026-09-07T09:16:03.450118Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pinecone,Pinecone,668,2026-09-07T09:16:03.450122Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/modal,Modal,685,2026-09-07T09:16:03.450125Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/baseten,Baseten,702,2026-09-07T09:16:03.450129Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/writer,Writer,719,2026-09-07T09:16:03.450133Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/tome,Tome,736,2026-09-07T09:16:03.450137Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/descript,Descript,753,2026-09-07T09:16:03.450140Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/assemblyai,AssemblyAI,770,2026-09-07T09:16:03.450144Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepl,DeepL,787,2026-09-07T09:16:03.450148Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/sakana-ai,Sakana AI,804,2026-09-07T09:16:03.450548Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/thinking-machines,Thinking Machines,821,2026-09-07T09:16:03.450560Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/poolside,Poolside,838,2026-09-07T09:16:03.450566Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/magic,Magic,855,2026-09-07T09:16:03.450570Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/openai-labs-0051,OpenAI Labs 0051,872,2026-09-07T09:16:03.450580Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anthropic-labs-0052,Anthropic Labs 0052,889,2026-09-07T09:16:03.450586Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cohere-labs-0053,Cohere Labs 0053,906,2026-09-07T09:16:03.450591Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/mistral-ai-labs-0054,Mistral AI Labs 0054,923,2026-09-07T09:16:03.450597Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/hugging-face-labs-0055,Hugging Face Labs 0055,940,2026-09-07T09:16:03.450603Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/scale-ai-labs-0056,Scale AI Labs 0056,957,2026-09-07T09:16:03.450608Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/perplexity-labs-0057,Perplexity Labs 0057,974,2026-09-07T09:16:03.450613Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/runway-labs-0058,Runway Labs 0058,991,2026-09-07T09:16:03.450618Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/character-ai-labs-0059,Character AI Labs 0059,13,2026-09-07T09:16:03.450624Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/stability-ai-labs-0060,Stability AI Labs 0060,30,2026-09-07T09:16:03.450630Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/elevenlabs-labs-0061,ElevenLabs Labs 0061,47,2026-09-07T09:16:03.450636Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cursor-labs-0062,Cursor Labs 0062,64,2026-09-07T09:16:03.450643Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replit-labs-0063,Replit Labs 0063,81,2026-09-07T09:16:03.450650Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/databricks-labs-0064,Databricks Labs 0064,98,2026-09-07T09:16:03.450658Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/snowflake-labs-0065,Snowflake Labs 0065,115,2026-09-07T09:16:03.450665Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nvidia-labs-0066,NVIDIA Labs 0066,132,2026-09-07T09:16:03.450673Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepmind-labs-0067,DeepMind Labs 0067,149,2026-09-07T09:16:03.450713Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/xai-labs-0068,xAI Labs 0068,166,2026-09-07T09:16:03.450727Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/adept-labs-0069,Adept Labs 0069,183,2026-09-07T09:16:03.450734Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/inflection-labs-0070,Inflection Labs 0070,200,2026-09-07T09:16:03.450741Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/jasper-labs-0071,Jasper Labs 0071,217,2026-09-07T09:16:03.450747Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/glean-labs-0072,Glean Labs 0072,234,2026-09-07T09:16:03.450751Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/harvey-labs-0073,Harvey Labs 0073,251,2026-09-07T09:16:03.450756Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pika-labs-0074,Pika Labs 0074,268,2026-09-07T09:16:03.450762Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/suno-labs-0075,Suno Labs 0075,285,2026-09-07T09:16:03.450767Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/together-ai-labs-0076,Together AI Labs 0076,302,2026-09-07T09:16:03.450772Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/groq-labs-0077,Groq Labs 0077,319,2026-09-07T09:16:03.450777Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replicate-labs-0078,Replicate Labs 0078,336,2026-09-07T09:16:03.450783Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/weights---biases-labs-0079,Weights & Biases Labs 0079,353,2026-09-07T09:16:03.450790Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/langchain-labs-0080,LangChain Labs 0080,370,2026-09-07T09:16:03.450795Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/luma-ai-labs-0081,Luma AI Labs 0081,387,2026-09-07T09:16:03.450800Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/figure-ai-labs-0082,Figure AI Labs 0082,404,2026-09-07T09:16:03.450808Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anduril-labs-0083,Anduril Labs 0083,421,2026-09-07T09:16:03.450816Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/wayve-labs-0084,Wayve Labs 0084,438,2026-09-07T09:16:03.450949Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/abridge-labs-0085,Abridge Labs 0085,455,2026-09-07T09:16:03.450959Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/insitro-labs-0086,Insitro Labs 0086,472,2026-09-07T09:16:03.450965Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nscale-labs-0087,Nscale Labs 0087,489,2026-09-07T09:16:03.450970Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/vanta-labs-0088,Vanta Labs 0088,506,2026-09-07T09:16:03.450975Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pinecone-labs-0089,Pinecone Labs 0089,523,2026-09-07T09:16:03.450981Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/modal-labs-0090,Modal Labs 0090,540,2026-09-07T09:16:03.450985Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/baseten-labs-0091,Baseten Labs 0091,557,2026-09-07T09:16:03.450990Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/writer-labs-0092,Writer Labs 0092,574,2026-09-07T09:16:03.450996Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/tome-labs-0093,Tome Labs 0093,591,2026-09-07T09:16:03.451001Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/descript-labs-0094,Descript Labs 0094,608,2026-09-07T09:16:03.451006Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/assemblyai-labs-0095,AssemblyAI Labs 0095,625,2026-09-07T09:16:03.451011Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepl-labs-0096,DeepL Labs 0096,642,2026-09-07T09:16:03.451016Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/sakana-ai-labs-0097,Sakana AI Labs 0097,659,2026-09-07T09:16:03.451021Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/thinking-machines-labs-0098,Thinking Machines Labs 0098,676,2026-09-07T09:16:03.451027Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/poolside-labs-0099,Poolside Labs 0099,693,2026-09-07T09:16:03.451033Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/magic-labs-0100,Magic Labs 0100,710,2026-09-07T09:16:03.451038Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/openai-labs-0101,OpenAI Labs 0101,727,2026-09-07T09:16:03.453765Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anthropic-labs-0102,Anthropic Labs 0102,744,2026-09-07T09:16:03.453773Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cohere-labs-0103,Cohere Labs 0103,761,2026-09-07T09:16:03.453781Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/mistral-ai-labs-0104,Mistral AI Labs 0104,778,2026-09-07T09:16:03.453788Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/hugging-face-labs-0105,Hugging Face Labs 0105,795,2026-09-07T09:16:03.453794Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/scale-ai-labs-0106,Scale AI Labs 0106,812,2026-09-07T09:16:03.453799Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/perplexity-labs-0107,Perplexity Labs 0107,829,2026-09-07T09:16:03.453805Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/runway-labs-0108,Runway Labs 0108,846,2026-09-07T09:16:03.453809Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/character-ai-labs-0109,Character AI Labs 0109,863,2026-09-07T09:16:03.453815Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/stability-ai-labs-0110,Stability AI Labs 0110,880,2026-09-07T09:16:03.453821Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/elevenlabs-labs-0111,ElevenLabs Labs 0111,897,2026-09-07T09:16:03.453829Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cursor-labs-0112,Cursor Labs 0112,914,2026-09-07T09:16:03.453834Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replit-labs-0113,Replit Labs 0113,931,2026-09-07T09:16:03.453839Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/databricks-labs-0114,Databricks Labs 0114,948,2026-09-07T09:16:03.453844Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/snowflake-labs-0115,Snowflake Labs 0115,965,2026-09-07T09:16:03.453849Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nvidia-labs-0116,NVIDIA Labs 0116,982,2026-09-07T09:16:03.453854Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepmind-labs-0117,DeepMind Labs 0117,999,2026-09-07T09:16:03.453859Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/xai-labs-0118,xAI Labs 0118,21,2026-09-07T09:16:03.453865Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/adept-labs-0119,Adept Labs 0119,38,2026-09-07T09:16:03.453870Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/inflection-labs-0120,Inflection Labs 0120,55,2026-09-07T09:16:03.453875Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/jasper-labs-0121,Jasper Labs 0121,72,2026-09-07T09:16:03.453879Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/glean-labs-0122,Glean Labs 0122,89,2026-09-07T09:16:03.453884Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/harvey-labs-0123,Harvey Labs 0123,106,2026-09-07T09:16:03.453890Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pika-labs-0124,Pika Labs 0124,123,2026-09-07T09:16:03.453894Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/suno-labs-0125,Suno Labs 0125,140,2026-09-07T09:16:03.453899Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/together-ai-labs-0126,Together AI Labs 0126,157,2026-09-07T09:16:03.453904Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/groq-labs-0127,Groq Labs 0127,174,2026-09-07T09:16:03.453909Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replicate-labs-0128,Replicate Labs 0128,191,2026-09-07T09:16:03.453914Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/weights---biases-labs-0129,Weights & Biases Labs 0129,208,2026-09-07T09:16:03.453921Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/langchain-labs-0130,LangChain Labs 0130,225,2026-09-07T09:16:03.453926Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/luma-ai-labs-0131,Luma AI Labs 0131,242,2026-09-07T09:16:03.453931Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/figure-ai-labs-0132,Figure AI Labs 0132,259,2026-09-07T09:16:03.453936Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anduril-labs-0133,Anduril Labs 0133,276,2026-09-07T09:16:03.453941Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/wayve-labs-0134,Wayve Labs 0134,293,2026-09-07T09:16:03.453945Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/abridge-labs-0135,Abridge Labs 0135,310,2026-09-07T09:16:03.453950Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/insitro-labs-0136,Insitro Labs 0136,327,2026-09-07T09:16:03.453955Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nscale-labs-0137,Nscale Labs 0137,344,2026-09-07T09:16:03.453959Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/vanta-labs-0138,Vanta Labs 0138,361,2026-09-07T09:16:03.453964Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pinecone-labs-0139,Pinecone Labs 0139,378,2026-09-07T09:16:03.453969Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/modal-labs-0140,Modal Labs 0140,395,2026-09-07T09:16:03.453974Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/baseten-labs-0141,Baseten Labs 0141,412,2026-09-07T09:16:03.453978Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/writer-labs-0142,Writer Labs 0142,429,2026-09-07T09:16:03.453983Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/tome-labs-0143,Tome Labs 0143,446,2026-09-07T09:16:03.453989Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/descript-labs-0144,Descript Labs 0144,463,2026-09-07T09:16:03.453994Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/assemblyai-labs-0145,AssemblyAI Labs 0145,480,2026-09-07T09:16:03.454000Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepl-labs-0146,DeepL Labs 0146,497,2026-09-07T09:16:03.454004Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/sakana-ai-labs-0147,Sakana AI Labs 0147,514,2026-09-07T09:16:03.454010Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/thinking-machines-labs-0148,Thinking Machines Labs 0148,531,2026-09-07T09:16:03.454016Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/poolside-labs-0149,Poolside Labs 0149,548,2026-09-07T09:16:03.454021Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/magic-labs-0150,Magic Labs 0150,565,2026-09-07T09:16:03.454026Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/openai-labs-0151,OpenAI Labs 0151,582,2026-09-07T09:16:03.454032Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anthropic-labs-0152,Anthropic Labs 0152,599,2026-09-07T09:16:03.454039Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cohere-labs-0153,Cohere Labs 0153,616,2026-09-07T09:16:03.454044Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/mistral-ai-labs-0154,Mistral AI Labs 0154,633,2026-09-07T09:16:03.454049Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/hugging-face-labs-0155,Hugging Face Labs 0155,650,2026-09-07T09:16:03.454054Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/scale-ai-labs-0156,Scale AI Labs 0156,667,2026-09-07T09:16:03.454059Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/perplexity-labs-0157,Perplexity Labs 0157,684,2026-09-07T09:16:03.454064Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/runway-labs-0158,Runway Labs 0158,701,2026-09-07T09:16:03.454069Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/character-ai-labs-0159,Character AI Labs 0159,718,2026-09-07T09:16:03.454074Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/stability-ai-labs-0160,Stability AI Labs 0160,735,2026-09-07T09:16:03.454079Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/elevenlabs-labs-0161,ElevenLabs Labs 0161,752,2026-09-07T09:16:03.454085Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cursor-labs-0162,Cursor Labs 0162,769,2026-09-07T09:16:03.454091Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replit-labs-0163,Replit Labs 0163,786,2026-09-07T09:16:03.454095Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/databricks-labs-0164,Databricks Labs 0164,803,2026-09-07T09:16:03.454101Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/snowflake-labs-0165,Snowflake Labs 0165,820,2026-09-07T09:16:03.454107Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nvidia-labs-0166,NVIDIA Labs 0166,837,2026-09-07T09:16:03.454112Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepmind-labs-0167,DeepMind Labs 0167,854,2026-09-07T09:16:03.454117Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/xai-labs-0168,xAI Labs 0168,871,2026-09-07T09:16:03.454121Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/adept-labs-0169,Adept Labs 0169,888,2026-09-07T09:16:03.454126Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/inflection-labs-0170,Inflection Labs 0170,905,2026-09-07T09:16:03.454131Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/jasper-labs-0171,Jasper Labs 0171,922,2026-09-07T09:16:03.454135Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/glean-labs-0172,Glean Labs 0172,939,2026-09-07T09:16:03.454140Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/harvey-labs-0173,Harvey Labs 0173,956,2026-09-07T09:16:03.454145Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pika-labs-0174,Pika Labs 0174,973,2026-09-07T09:16:03.455135Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/suno-labs-0175,Suno Labs 0175,990,2026-09-07T09:16:03.455153Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/together-ai-labs-0176,Together AI Labs 0176,12,2026-09-07T09:16:03.455160Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/groq-labs-0177,Groq Labs 0177,29,2026-09-07T09:16:03.455166Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replicate-labs-0178,Replicate Labs 0178,46,2026-09-07T09:16:03.455171Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/weights---biases-labs-0179,Weights & Biases Labs 0179,63,2026-09-07T09:16:03.455178Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/langchain-labs-0180,LangChain Labs 0180,80,2026-09-07T09:16:03.455183Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/luma-ai-labs-0181,Luma AI Labs 0181,97,2026-09-07T09:16:03.455188Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/figure-ai-labs-0182,Figure AI Labs 0182,114,2026-09-07T09:16:03.455196Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anduril-labs-0183,Anduril Labs 0183,131,2026-09-07T09:16:03.455202Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/wayve-labs-0184,Wayve Labs 0184,148,2026-09-07T09:16:03.455207Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/abridge-labs-0185,Abridge Labs 0185,165,2026-09-07T09:16:03.455211Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/insitro-labs-0186,Insitro Labs 0186,182,2026-09-07T09:16:03.455216Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nscale-labs-0187,Nscale Labs 0187,199,2026-09-07T09:16:03.455220Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/vanta-labs-0188,Vanta Labs 0188,216,2026-09-07T09:16:03.455225Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pinecone-labs-0189,Pinecone Labs 0189,233,2026-09-07T09:16:03.455231Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/modal-labs-0190,Modal Labs 0190,250,2026-09-07T09:16:03.455236Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/baseten-labs-0191,Baseten Labs 0191,267,2026-09-07T09:16:03.455241Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/writer-labs-0192,Writer Labs 0192,284,2026-09-07T09:16:03.455246Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/tome-labs-0193,Tome Labs 0193,301,2026-09-07T09:16:03.455251Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/descript-labs-0194,Descript Labs 0194,318,2026-09-07T09:16:03.455256Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/assemblyai-labs-0195,AssemblyAI Labs 0195,335,2026-09-07T09:16:03.455261Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepl-labs-0196,DeepL Labs 0196,352,2026-09-07T09:16:03.455265Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/sakana-ai-labs-0197,Sakana AI Labs 0197,369,2026-09-07T09:16:03.455270Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/thinking-machines-labs-0198,Thinking Machines Labs 0198,386,2026-09-07T09:16:03.455276Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/poolside-labs-0199,Poolside Labs 0199,403,2026-09-07T09:16:03.455282Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/magic-labs-0200,Magic Labs 0200,420,2026-09-07T09:16:03.455288Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/openai-labs-0201,OpenAI Labs 0201,437,2026-09-07T09:16:03.457993Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anthropic-labs-0202,Anthropic Labs 0202,454,2026-09-07T09:16:03.458000Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cohere-labs-0203,Cohere Labs 0203,471,2026-09-07T09:16:03.458005Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/mistral-ai-labs-0204,Mistral AI Labs 0204,488,2026-09-07T09:16:03.458011Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/hugging-face-labs-0205,Hugging Face Labs 0205,505,2026-09-07T09:16:03.458016Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/scale-ai-labs-0206,Scale AI Labs 0206,522,2026-09-07T09:16:03.458021Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/perplexity-labs-0207,Perplexity Labs 0207,539,2026-09-07T09:16:03.458026Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/runway-labs-0208,Runway Labs 0208,556,2026-09-07T09:16:03.458031Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/character-ai-labs-0209,Character AI Labs 0209,573,2026-09-07T09:16:03.458036Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/stability-ai-labs-0210,Stability AI Labs 0210,590,2026-09-07T09:16:03.458041Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/elevenlabs-labs-0211,ElevenLabs Labs 0211,607,2026-09-07T09:16:03.458046Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cursor-labs-0212,Cursor Labs 0212,624,2026-09-07T09:16:03.458051Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replit-labs-0213,Replit Labs 0213,641,2026-09-07T09:16:03.458056Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/databricks-labs-0214,Databricks Labs 0214,658,2026-09-07T09:16:03.458062Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/snowflake-labs-0215,Snowflake Labs 0215,675,2026-09-07T09:16:03.458068Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nvidia-labs-0216,NVIDIA Labs 0216,692,2026-09-07T09:16:03.458073Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepmind-labs-0217,DeepMind Labs 0217,709,2026-09-07T09:16:03.458078Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/xai-labs-0218,xAI Labs 0218,726,2026-09-07T09:16:03.458083Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/adept-labs-0219,Adept Labs 0219,743,2026-09-07T09:16:03.458087Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/inflection-labs-0220,Inflection Labs 0220,760,2026-09-07T09:16:03.458092Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/jasper-labs-0221,Jasper Labs 0221,777,2026-09-07T09:16:03.458097Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/glean-labs-0222,Glean Labs 0222,794,2026-09-07T09:16:03.458101Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/harvey-labs-0223,Harvey Labs 0223,811,2026-09-07T09:16:03.458106Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pika-labs-0224,Pika Labs 0224,828,2026-09-07T09:16:03.458110Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/suno-labs-0225,Suno Labs 0225,845,2026-09-07T09:16:03.458114Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/together-ai-labs-0226,Together AI Labs 0226,862,2026-09-07T09:16:03.458119Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/groq-labs-0227,Groq Labs 0227,879,2026-09-07T09:16:03.458124Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replicate-labs-0228,Replicate Labs 0228,896,2026-09-07T09:16:03.458129Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/weights---biases-labs-0229,Weights & Biases Labs 0229,913,2026-09-07T09:16:03.458134Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/langchain-labs-0230,LangChain Labs 0230,930,2026-09-07T09:16:03.458139Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/luma-ai-labs-0231,Luma AI Labs 0231,947,2026-09-07T09:16:03.458144Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/figure-ai-labs-0232,Figure AI Labs 0232,964,2026-09-07T09:16:03.458193Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anduril-labs-0233,Anduril Labs 0233,981,2026-09-07T09:16:03.458204Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/wayve-labs-0234,Wayve Labs 0234,998,2026-09-07T09:16:03.458210Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/abridge-labs-0235,Abridge Labs 0235,20,2026-09-07T09:16:03.458216Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/insitro-labs-0236,Insitro Labs 0236,37,2026-09-07T09:16:03.458223Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nscale-labs-0237,Nscale Labs 0237,54,2026-09-07T09:16:03.458228Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/vanta-labs-0238,Vanta Labs 0238,71,2026-09-07T09:16:03.458233Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pinecone-labs-0239,Pinecone Labs 0239,88,2026-09-07T09:16:03.458238Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/modal-labs-0240,Modal Labs 0240,105,2026-09-07T09:16:03.458243Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/baseten-labs-0241,Baseten Labs 0241,122,2026-09-07T09:16:03.458248Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/writer-labs-0242,Writer Labs 0242,139,2026-09-07T09:16:03.458254Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/tome-labs-0243,Tome Labs 0243,156,2026-09-07T09:16:03.458259Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/descript-labs-0244,Descript Labs 0244,173,2026-09-07T09:16:03.458264Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/assemblyai-labs-0245,AssemblyAI Labs 0245,190,2026-09-07T09:16:03.458269Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepl-labs-0246,DeepL Labs 0246,207,2026-09-07T09:16:03.458273Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/sakana-ai-labs-0247,Sakana AI Labs 0247,224,2026-09-07T09:16:03.458278Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/thinking-machines-labs-0248,Thinking Machines Labs 0248,241,2026-09-07T09:16:03.458284Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/poolside-labs-0249,Poolside Labs 0249,258,2026-09-07T09:16:03.458289Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/magic-labs-0250,Magic Labs 0250,275,2026-09-07T09:16:03.458294Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/openai-labs-0251,OpenAI Labs 0251,292,2026-09-07T09:16:03.458300Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anthropic-labs-0252,Anthropic Labs 0252,309,2026-09-07T09:16:03.458306Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cohere-labs-0253,Cohere Labs 0253,326,2026-09-07T09:16:03.458311Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/mistral-ai-labs-0254,Mistral AI Labs 0254,343,2026-09-07T09:16:03.458316Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/hugging-face-labs-0255,Hugging Face Labs 0255,360,2026-09-07T09:16:03.458322Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/scale-ai-labs-0256,Scale AI Labs 0256,377,2026-09-07T09:16:03.458327Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/perplexity-labs-0257,Perplexity Labs 0257,394,2026-09-07T09:16:03.458332Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/runway-labs-0258,Runway Labs 0258,411,2026-09-07T09:16:03.458337Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/character-ai-labs-0259,Character AI Labs 0259,428,2026-09-07T09:16:03.458343Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/stability-ai-labs-0260,Stability AI Labs 0260,445,2026-09-07T09:16:03.458348Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/elevenlabs-labs-0261,ElevenLabs Labs 0261,462,2026-09-07T09:16:03.458353Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cursor-labs-0262,Cursor Labs 0262,479,2026-09-07T09:16:03.458358Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replit-labs-0263,Replit Labs 0263,496,2026-09-07T09:16:03.458363Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/databricks-labs-0264,Databricks Labs 0264,513,2026-09-07T09:16:03.458368Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/snowflake-labs-0265,Snowflake Labs 0265,530,2026-09-07T09:16:03.458373Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nvidia-labs-0266,NVIDIA Labs 0266,547,2026-09-07T09:16:03.458378Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepmind-labs-0267,DeepMind Labs 0267,564,2026-09-07T09:16:03.458383Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/xai-labs-0268,xAI Labs 0268,581,2026-09-07T09:16:03.458387Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/adept-labs-0269,Adept Labs 0269,598,2026-09-07T09:16:03.458393Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/inflection-labs-0270,Inflection Labs 0270,615,2026-09-07T09:16:03.458399Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/jasper-labs-0271,Jasper Labs 0271,632,2026-09-07T09:16:03.458404Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/glean-labs-0272,Glean Labs 0272,649,2026-09-07T09:16:03.458410Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/harvey-labs-0273,Harvey Labs 0273,666,2026-09-07T09:16:03.458415Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pika-labs-0274,Pika Labs 0274,683,2026-09-07T09:16:03.458419Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/suno-labs-0275,Suno Labs 0275,700,2026-09-07T09:16:03.458423Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/together-ai-labs-0276,Together AI Labs 0276,717,2026-09-07T09:16:03.458428Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/groq-labs-0277,Groq Labs 0277,734,2026-09-07T09:16:03.458433Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replicate-labs-0278,Replicate Labs 0278,751,2026-09-07T09:16:03.458438Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/weights---biases-labs-0279,Weights & Biases Labs 0279,768,2026-09-07T09:16:03.458444Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/langchain-labs-0280,LangChain Labs 0280,785,2026-09-07T09:16:03.458449Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/luma-ai-labs-0281,Luma AI Labs 0281,802,2026-09-07T09:16:03.458454Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/figure-ai-labs-0282,Figure AI Labs 0282,819,2026-09-07T09:16:03.458459Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anduril-labs-0283,Anduril Labs 0283,836,2026-09-07T09:16:03.458466Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/wayve-labs-0284,Wayve Labs 0284,853,2026-09-07T09:16:03.458471Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/abridge-labs-0285,Abridge Labs 0285,870,2026-09-07T09:16:03.458476Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/insitro-labs-0286,Insitro Labs 0286,887,2026-09-07T09:16:03.458481Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nscale-labs-0287,Nscale Labs 0287,904,2026-09-07T09:16:03.458487Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/vanta-labs-0288,Vanta Labs 0288,921,2026-09-07T09:16:03.458492Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pinecone-labs-0289,Pinecone Labs 0289,938,2026-09-07T09:16:03.458497Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/modal-labs-0290,Modal Labs 0290,955,2026-09-07T09:16:03.458502Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/baseten-labs-0291,Baseten Labs 0291,972,2026-09-07T09:16:03.458510Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/writer-labs-0292,Writer Labs 0292,989,2026-09-07T09:16:03.458515Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/tome-labs-0293,Tome Labs 0293,11,2026-09-07T09:16:03.458520Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/descript-labs-0294,Descript Labs 0294,28,2026-09-07T09:16:03.458525Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/assemblyai-labs-0295,AssemblyAI Labs 0295,45,2026-09-07T09:16:03.458530Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepl-labs-0296,DeepL Labs 0296,62,2026-09-07T09:16:03.458535Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/sakana-ai-labs-0297,Sakana AI Labs 0297,79,2026-09-07T09:16:03.458541Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/thinking-machines-labs-0298,Thinking Machines Labs 0298,96,2026-09-07T09:16:03.458546Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/poolside-labs-0299,Poolside Labs 0299,113,2026-09-07T09:16:03.458551Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/magic-labs-0300,Magic Labs 0300,130,2026-09-07T09:16:03.458556Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/openai-labs-0301,OpenAI Labs 0301,147,2026-09-07T09:16:03.461371Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anthropic-labs-0302,Anthropic Labs 0302,164,2026-09-07T09:16:03.461378Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cohere-labs-0303,Cohere Labs 0303,181,2026-09-07T09:16:03.461384Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/mistral-ai-labs-0304,Mistral AI Labs 0304,198,2026-09-07T09:16:03.461389Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/hugging-face-labs-0305,Hugging Face Labs 0305,215,2026-09-07T09:16:03.461396Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/scale-ai-labs-0306,Scale AI Labs 0306,232,2026-09-07T09:16:03.461401Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/perplexity-labs-0307,Perplexity Labs 0307,249,2026-09-07T09:16:03.461406Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/runway-labs-0308,Runway Labs 0308,266,2026-09-07T09:16:03.461411Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/character-ai-labs-0309,Character AI Labs 0309,283,2026-09-07T09:16:03.461417Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/stability-ai-labs-0310,Stability AI Labs 0310,300,2026-09-07T09:16:03.461422Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/elevenlabs-labs-0311,ElevenLabs Labs 0311,317,2026-09-07T09:16:03.461427Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cursor-labs-0312,Cursor Labs 0312,334,2026-09-07T09:16:03.461432Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replit-labs-0313,Replit Labs 0313,351,2026-09-07T09:16:03.461436Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/databricks-labs-0314,Databricks Labs 0314,368,2026-09-07T09:16:03.461442Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/snowflake-labs-0315,Snowflake Labs 0315,385,2026-09-07T09:16:03.461447Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nvidia-labs-0316,NVIDIA Labs 0316,402,2026-09-07T09:16:03.461451Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepmind-labs-0317,DeepMind Labs 0317,419,2026-09-07T09:16:03.461456Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/xai-labs-0318,xAI Labs 0318,436,2026-09-07T09:16:03.461460Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/adept-labs-0319,Adept Labs 0319,453,2026-09-07T09:16:03.461466Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/inflection-labs-0320,Inflection Labs 0320,470,2026-09-07T09:16:03.461473Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/jasper-labs-0321,Jasper Labs 0321,487,2026-09-07T09:16:03.461478Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/glean-labs-0322,Glean Labs 0322,504,2026-09-07T09:16:03.461482Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/harvey-labs-0323,Harvey Labs 0323,521,2026-09-07T09:16:03.461488Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pika-labs-0324,Pika Labs 0324,538,2026-09-07T09:16:03.461493Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/suno-labs-0325,Suno Labs 0325,555,2026-09-07T09:16:03.461497Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/together-ai-labs-0326,Together AI Labs 0326,572,2026-09-07T09:16:03.461503Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/groq-labs-0327,Groq Labs 0327,589,2026-09-07T09:16:03.461507Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replicate-labs-0328,Replicate Labs 0328,606,2026-09-07T09:16:03.461512Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/weights---biases-labs-0329,Weights & Biases Labs 0329,623,2026-09-07T09:16:03.461518Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/langchain-labs-0330,LangChain Labs 0330,640,2026-09-07T09:16:03.461523Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/luma-ai-labs-0331,Luma AI Labs 0331,657,2026-09-07T09:16:03.461527Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/figure-ai-labs-0332,Figure AI Labs 0332,674,2026-09-07T09:16:03.461533Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anduril-labs-0333,Anduril Labs 0333,691,2026-09-07T09:16:03.461539Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/wayve-labs-0334,Wayve Labs 0334,708,2026-09-07T09:16:03.461543Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/abridge-labs-0335,Abridge Labs 0335,725,2026-09-07T09:16:03.461548Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/insitro-labs-0336,Insitro Labs 0336,742,2026-09-07T09:16:03.461553Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nscale-labs-0337,Nscale Labs 0337,759,2026-09-07T09:16:03.461560Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/vanta-labs-0338,Vanta Labs 0338,776,2026-09-07T09:16:03.461565Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pinecone-labs-0339,Pinecone Labs 0339,793,2026-09-07T09:16:03.461570Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/modal-labs-0340,Modal Labs 0340,810,2026-09-07T09:16:03.461575Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/baseten-labs-0341,Baseten Labs 0341,827,2026-09-07T09:16:03.461580Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/writer-labs-0342,Writer Labs 0342,844,2026-09-07T09:16:03.461586Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/tome-labs-0343,Tome Labs 0343,861,2026-09-07T09:16:03.461591Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/descript-labs-0344,Descript Labs 0344,878,2026-09-07T09:16:03.461596Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/assemblyai-labs-0345,AssemblyAI Labs 0345,895,2026-09-07T09:16:03.461601Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepl-labs-0346,DeepL Labs 0346,912,2026-09-07T09:16:03.461605Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/sakana-ai-labs-0347,Sakana AI Labs 0347,929,2026-09-07T09:16:03.461610Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/thinking-machines-labs-0348,Thinking Machines Labs 0348,946,2026-09-07T09:16:03.461616Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/poolside-labs-0349,Poolside Labs 0349,963,2026-09-07T09:16:03.461620Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/magic-labs-0350,Magic Labs 0350,980,2026-09-07T09:16:03.461625Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/openai-labs-0351,OpenAI Labs 0351,997,2026-09-07T09:16:03.461630Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anthropic-labs-0352,Anthropic Labs 0352,19,2026-09-07T09:16:03.461635Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cohere-labs-0353,Cohere Labs 0353,36,2026-09-07T09:16:03.461640Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/mistral-ai-labs-0354,Mistral AI Labs 0354,53,2026-09-07T09:16:03.461645Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/hugging-face-labs-0355,Hugging Face Labs 0355,70,2026-09-07T09:16:03.461651Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/scale-ai-labs-0356,Scale AI Labs 0356,87,2026-09-07T09:16:03.461656Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/perplexity-labs-0357,Perplexity Labs 0357,104,2026-09-07T09:16:03.461661Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/runway-labs-0358,Runway Labs 0358,121,2026-09-07T09:16:03.461666Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/character-ai-labs-0359,Character AI Labs 0359,138,2026-09-07T09:16:03.461671Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/stability-ai-labs-0360,Stability AI Labs 0360,155,2026-09-07T09:16:03.461676Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/elevenlabs-labs-0361,ElevenLabs Labs 0361,172,2026-09-07T09:16:03.461708Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cursor-labs-0362,Cursor Labs 0362,189,2026-09-07T09:16:03.461717Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replit-labs-0363,Replit Labs 0363,206,2026-09-07T09:16:03.461722Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/databricks-labs-0364,Databricks Labs 0364,223,2026-09-07T09:16:03.461728Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/snowflake-labs-0365,Snowflake Labs 0365,240,2026-09-07T09:16:03.461734Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nvidia-labs-0366,NVIDIA Labs 0366,257,2026-09-07T09:16:03.461741Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepmind-labs-0367,DeepMind Labs 0367,274,2026-09-07T09:16:03.461749Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/xai-labs-0368,xAI Labs 0368,291,2026-09-07T09:16:03.461754Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/adept-labs-0369,Adept Labs 0369,308,2026-09-07T09:16:03.461761Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/inflection-labs-0370,Inflection Labs 0370,325,2026-09-07T09:16:03.461766Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/jasper-labs-0371,Jasper Labs 0371,342,2026-09-07T09:16:03.461771Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/glean-labs-0372,Glean Labs 0372,359,2026-09-07T09:16:03.461776Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/harvey-labs-0373,Harvey Labs 0373,376,2026-09-07T09:16:03.461782Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pika-labs-0374,Pika Labs 0374,393,2026-09-07T09:16:03.461787Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/suno-labs-0375,Suno Labs 0375,410,2026-09-07T09:16:03.461792Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/together-ai-labs-0376,Together AI Labs 0376,427,2026-09-07T09:16:03.461797Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/groq-labs-0377,Groq Labs 0377,444,2026-09-07T09:16:03.461802Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replicate-labs-0378,Replicate Labs 0378,461,2026-09-07T09:16:03.461807Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/weights---biases-labs-0379,Weights & Biases Labs 0379,478,2026-09-07T09:16:03.461813Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/langchain-labs-0380,LangChain Labs 0380,495,2026-09-07T09:16:03.461818Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/luma-ai-labs-0381,Luma AI Labs 0381,512,2026-09-07T09:16:03.461824Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/figure-ai-labs-0382,Figure AI Labs 0382,529,2026-09-07T09:16:03.461830Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anduril-labs-0383,Anduril Labs 0383,546,2026-09-07T09:16:03.461835Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/wayve-labs-0384,Wayve Labs 0384,563,2026-09-07T09:16:03.461840Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/abridge-labs-0385,Abridge Labs 0385,580,2026-09-07T09:16:03.461845Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/insitro-labs-0386,Insitro Labs 0386,597,2026-09-07T09:16:03.461849Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nscale-labs-0387,Nscale Labs 0387,614,2026-09-07T09:16:03.461854Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/vanta-labs-0388,Vanta Labs 0388,631,2026-09-07T09:16:03.461860Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pinecone-labs-0389,Pinecone Labs 0389,648,2026-09-07T09:16:03.461865Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/modal-labs-0390,Modal Labs 0390,665,2026-09-07T09:16:03.461870Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/baseten-labs-0391,Baseten Labs 0391,682,2026-09-07T09:16:03.461876Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/writer-labs-0392,Writer Labs 0392,699,2026-09-07T09:16:03.461881Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/tome-labs-0393,Tome Labs 0393,716,2026-09-07T09:16:03.461885Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/descript-labs-0394,Descript Labs 0394,733,2026-09-07T09:16:03.461899Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/assemblyai-labs-0395,AssemblyAI Labs 0395,750,2026-09-07T09:16:03.461905Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepl-labs-0396,DeepL Labs 0396,767,2026-09-07T09:16:03.461910Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/sakana-ai-labs-0397,Sakana AI Labs 0397,784,2026-09-07T09:16:03.461915Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/thinking-machines-labs-0398,Thinking Machines Labs 0398,801,2026-09-07T09:16:03.461921Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/poolside-labs-0399,Poolside Labs 0399,818,2026-09-07T09:16:03.461932Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/magic-labs-0400,Magic Labs 0400,835,2026-09-07T09:16:03.461942Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/openai-labs-0401,OpenAI Labs 0401,852,2026-09-07T09:16:03.464593Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anthropic-labs-0402,Anthropic Labs 0402,869,2026-09-07T09:16:03.464599Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cohere-labs-0403,Cohere Labs 0403,886,2026-09-07T09:16:03.464605Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/mistral-ai-labs-0404,Mistral AI Labs 0404,903,2026-09-07T09:16:03.464610Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/hugging-face-labs-0405,Hugging Face Labs 0405,920,2026-09-07T09:16:03.464618Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/scale-ai-labs-0406,Scale AI Labs 0406,937,2026-09-07T09:16:03.464623Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/perplexity-labs-0407,Perplexity Labs 0407,954,2026-09-07T09:16:03.464629Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/runway-labs-0408,Runway Labs 0408,971,2026-09-07T09:16:03.464634Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/character-ai-labs-0409,Character AI Labs 0409,988,2026-09-07T09:16:03.464639Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/stability-ai-labs-0410,Stability AI Labs 0410,10,2026-09-07T09:16:03.464644Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/elevenlabs-labs-0411,ElevenLabs Labs 0411,27,2026-09-07T09:16:03.464650Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cursor-labs-0412,Cursor Labs 0412,44,2026-09-07T09:16:03.464655Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replit-labs-0413,Replit Labs 0413,61,2026-09-07T09:16:03.464660Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/databricks-labs-0414,Databricks Labs 0414,78,2026-09-07T09:16:03.464667Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/snowflake-labs-0415,Snowflake Labs 0415,95,2026-09-07T09:16:03.464672Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nvidia-labs-0416,NVIDIA Labs 0416,112,2026-09-07T09:16:03.464677Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepmind-labs-0417,DeepMind Labs 0417,129,2026-09-07T09:16:03.464706Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/xai-labs-0418,xAI Labs 0418,146,2026-09-07T09:16:03.464713Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/adept-labs-0419,Adept Labs 0419,163,2026-09-07T09:16:03.464718Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/inflection-labs-0420,Inflection Labs 0420,180,2026-09-07T09:16:03.464723Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/jasper-labs-0421,Jasper Labs 0421,197,2026-09-07T09:16:03.464727Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/glean-labs-0422,Glean Labs 0422,214,2026-09-07T09:16:03.464732Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/harvey-labs-0423,Harvey Labs 0423,231,2026-09-07T09:16:03.464746Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pika-labs-0424,Pika Labs 0424,248,2026-09-07T09:16:03.464754Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/suno-labs-0425,Suno Labs 0425,265,2026-09-07T09:16:03.464759Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/together-ai-labs-0426,Together AI Labs 0426,282,2026-09-07T09:16:03.464767Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/groq-labs-0427,Groq Labs 0427,299,2026-09-07T09:16:03.464772Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replicate-labs-0428,Replicate Labs 0428,316,2026-09-07T09:16:03.464778Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/weights---biases-labs-0429,Weights & Biases Labs 0429,333,2026-09-07T09:16:03.464785Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/langchain-labs-0430,LangChain Labs 0430,350,2026-09-07T09:16:03.464791Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/luma-ai-labs-0431,Luma AI Labs 0431,367,2026-09-07T09:16:03.464796Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/figure-ai-labs-0432,Figure AI Labs 0432,384,2026-09-07T09:16:03.464802Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anduril-labs-0433,Anduril Labs 0433,401,2026-09-07T09:16:03.464807Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/wayve-labs-0434,Wayve Labs 0434,418,2026-09-07T09:16:03.464812Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/abridge-labs-0435,Abridge Labs 0435,435,2026-09-07T09:16:03.464817Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/insitro-labs-0436,Insitro Labs 0436,452,2026-09-07T09:16:03.464821Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nscale-labs-0437,Nscale Labs 0437,469,2026-09-07T09:16:03.464827Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/vanta-labs-0438,Vanta Labs 0438,486,2026-09-07T09:16:03.464832Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pinecone-labs-0439,Pinecone Labs 0439,503,2026-09-07T09:16:03.464836Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/modal-labs-0440,Modal Labs 0440,520,2026-09-07T09:16:03.464841Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/baseten-labs-0441,Baseten Labs 0441,537,2026-09-07T09:16:03.464847Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/writer-labs-0442,Writer Labs 0442,554,2026-09-07T09:16:03.464852Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/tome-labs-0443,Tome Labs 0443,571,2026-09-07T09:16:03.464857Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/descript-labs-0444,Descript Labs 0444,588,2026-09-07T09:16:03.464862Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/assemblyai-labs-0445,AssemblyAI Labs 0445,605,2026-09-07T09:16:03.464867Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepl-labs-0446,DeepL Labs 0446,622,2026-09-07T09:16:03.464871Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/sakana-ai-labs-0447,Sakana AI Labs 0447,639,2026-09-07T09:16:03.464878Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/thinking-machines-labs-0448,Thinking Machines Labs 0448,656,2026-09-07T09:16:03.464884Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/poolside-labs-0449,Poolside Labs 0449,673,2026-09-07T09:16:03.464889Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/magic-labs-0450,Magic Labs 0450,690,2026-09-07T09:16:03.464894Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/openai-labs-0451,OpenAI Labs 0451,707,2026-09-07T09:16:03.464899Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anthropic-labs-0452,Anthropic Labs 0452,724,2026-09-07T09:16:03.464905Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cohere-labs-0453,Cohere Labs 0453,741,2026-09-07T09:16:03.464910Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/mistral-ai-labs-0454,Mistral AI Labs 0454,758,2026-09-07T09:16:03.464915Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/hugging-face-labs-0455,Hugging Face Labs 0455,775,2026-09-07T09:16:03.464920Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/scale-ai-labs-0456,Scale AI Labs 0456,792,2026-09-07T09:16:03.464926Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/perplexity-labs-0457,Perplexity Labs 0457,809,2026-09-07T09:16:03.464931Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/runway-labs-0458,Runway Labs 0458,826,2026-09-07T09:16:03.464936Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/character-ai-labs-0459,Character AI Labs 0459,843,2026-09-07T09:16:03.464943Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/stability-ai-labs-0460,Stability AI Labs 0460,860,2026-09-07T09:16:03.464948Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/elevenlabs-labs-0461,ElevenLabs Labs 0461,877,2026-09-07T09:16:03.464954Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cursor-labs-0462,Cursor Labs 0462,894,2026-09-07T09:16:03.464959Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replit-labs-0463,Replit Labs 0463,911,2026-09-07T09:16:03.464963Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/databricks-labs-0464,Databricks Labs 0464,928,2026-09-07T09:16:03.464968Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/snowflake-labs-0465,Snowflake Labs 0465,945,2026-09-07T09:16:03.464973Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nvidia-labs-0466,NVIDIA Labs 0466,962,2026-09-07T09:16:03.464978Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepmind-labs-0467,DeepMind Labs 0467,979,2026-09-07T09:16:03.464983Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/xai-labs-0468,xAI Labs 0468,996,2026-09-07T09:16:03.464987Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/adept-labs-0469,Adept Labs 0469,18,2026-09-07T09:16:03.464991Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/inflection-labs-0470,Inflection Labs 0470,35,2026-09-07T09:16:03.464997Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/jasper-labs-0471,Jasper Labs 0471,52,2026-09-07T09:16:03.465003Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/glean-labs-0472,Glean Labs 0472,69,2026-09-07T09:16:03.465009Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/harvey-labs-0473,Harvey Labs 0473,86,2026-09-07T09:16:03.465014Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pika-labs-0474,Pika Labs 0474,103,2026-09-07T09:16:03.465020Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/suno-labs-0475,Suno Labs 0475,120,2026-09-07T09:16:03.465024Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/together-ai-labs-0476,Together AI Labs 0476,137,2026-09-07T09:16:03.465030Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/groq-labs-0477,Groq Labs 0477,154,2026-09-07T09:16:03.465036Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replicate-labs-0478,Replicate Labs 0478,171,2026-09-07T09:16:03.465040Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/weights---biases-labs-0479,Weights & Biases Labs 0479,188,2026-09-07T09:16:03.465055Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/langchain-labs-0480,LangChain Labs 0480,205,2026-09-07T09:16:03.465063Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/luma-ai-labs-0481,Luma AI Labs 0481,222,2026-09-07T09:16:03.465068Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/figure-ai-labs-0482,Figure AI Labs 0482,239,2026-09-07T09:16:03.465073Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anduril-labs-0483,Anduril Labs 0483,256,2026-09-07T09:16:03.465078Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/wayve-labs-0484,Wayve Labs 0484,273,2026-09-07T09:16:03.465082Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/abridge-labs-0485,Abridge Labs 0485,290,2026-09-07T09:16:03.465087Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/insitro-labs-0486,Insitro Labs 0486,307,2026-09-07T09:16:03.465092Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nscale-labs-0487,Nscale Labs 0487,324,2026-09-07T09:16:03.465096Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/vanta-labs-0488,Vanta Labs 0488,341,2026-09-07T09:16:03.465101Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pinecone-labs-0489,Pinecone Labs 0489,358,2026-09-07T09:16:03.465105Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/modal-labs-0490,Modal Labs 0490,375,2026-09-07T09:16:03.465110Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/baseten-labs-0491,Baseten Labs 0491,392,2026-09-07T09:16:03.465117Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/writer-labs-0492,Writer Labs 0492,409,2026-09-07T09:16:03.465122Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/tome-labs-0493,Tome Labs 0493,426,2026-09-07T09:16:03.465126Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/descript-labs-0494,Descript Labs 0494,443,2026-09-07T09:16:03.465131Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/assemblyai-labs-0495,AssemblyAI Labs 0495,460,2026-09-07T09:16:03.465138Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepl-labs-0496,DeepL Labs 0496,477,2026-09-07T09:16:03.465142Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/sakana-ai-labs-0497,Sakana AI Labs 0497,494,2026-09-07T09:16:03.465147Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/thinking-machines-labs-0498,Thinking Machines Labs 0498,511,2026-09-07T09:16:03.465153Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/poolside-labs-0499,Poolside Labs 0499,528,2026-09-07T09:16:03.465157Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/magic-labs-0500,Magic Labs 0500,545,2026-09-07T09:16:03.465162Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/openai-labs-0501,OpenAI Labs 0501,562,2026-09-07T09:16:03.468637Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anthropic-labs-0502,Anthropic Labs 0502,579,2026-09-07T09:16:03.468643Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cohere-labs-0503,Cohere Labs 0503,596,2026-09-07T09:16:03.468650Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/mistral-ai-labs-0504,Mistral AI Labs 0504,613,2026-09-07T09:16:03.468656Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/hugging-face-labs-0505,Hugging Face Labs 0505,630,2026-09-07T09:16:03.468661Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/scale-ai-labs-0506,Scale AI Labs 0506,647,2026-09-07T09:16:03.468666Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/perplexity-labs-0507,Perplexity Labs 0507,664,2026-09-07T09:16:03.468671Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/runway-labs-0508,Runway Labs 0508,681,2026-09-07T09:16:03.468676Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/character-ai-labs-0509,Character AI Labs 0509,698,2026-09-07T09:16:03.468708Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/stability-ai-labs-0510,Stability AI Labs 0510,715,2026-09-07T09:16:03.468715Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/elevenlabs-labs-0511,ElevenLabs Labs 0511,732,2026-09-07T09:16:03.468721Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cursor-labs-0512,Cursor Labs 0512,749,2026-09-07T09:16:03.468729Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replit-labs-0513,Replit Labs 0513,766,2026-09-07T09:16:03.468876Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/databricks-labs-0514,Databricks Labs 0514,783,2026-09-07T09:16:03.468889Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/snowflake-labs-0515,Snowflake Labs 0515,800,2026-09-07T09:16:03.468905Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nvidia-labs-0516,NVIDIA Labs 0516,817,2026-09-07T09:16:03.468917Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepmind-labs-0517,DeepMind Labs 0517,834,2026-09-07T09:16:03.469132Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/xai-labs-0518,xAI Labs 0518,851,2026-09-07T09:16:03.469372Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/adept-labs-0519,Adept Labs 0519,868,2026-09-07T09:16:03.469383Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/inflection-labs-0520,Inflection Labs 0520,885,2026-09-07T09:16:03.469390Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/jasper-labs-0521,Jasper Labs 0521,902,2026-09-07T09:16:03.469395Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/glean-labs-0522,Glean Labs 0522,919,2026-09-07T09:16:03.469403Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/harvey-labs-0523,Harvey Labs 0523,936,2026-09-07T09:16:03.469407Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pika-labs-0524,Pika Labs 0524,953,2026-09-07T09:16:03.469414Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/suno-labs-0525,Suno Labs 0525,970,2026-09-07T09:16:03.469419Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/together-ai-labs-0526,Together AI Labs 0526,987,2026-09-07T09:16:03.469424Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/groq-labs-0527,Groq Labs 0527,9,2026-09-07T09:16:03.469431Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replicate-labs-0528,Replicate Labs 0528,26,2026-09-07T09:16:03.469436Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/weights---biases-labs-0529,Weights & Biases Labs 0529,43,2026-09-07T09:16:03.469443Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/langchain-labs-0530,LangChain Labs 0530,60,2026-09-07T09:16:03.469448Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/luma-ai-labs-0531,Luma AI Labs 0531,77,2026-09-07T09:16:03.469453Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/figure-ai-labs-0532,Figure AI Labs 0532,94,2026-09-07T09:16:03.469458Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anduril-labs-0533,Anduril Labs 0533,111,2026-09-07T09:16:03.469463Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/wayve-labs-0534,Wayve Labs 0534,128,2026-09-07T09:16:03.469467Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/abridge-labs-0535,Abridge Labs 0535,145,2026-09-07T09:16:03.469472Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/insitro-labs-0536,Insitro Labs 0536,162,2026-09-07T09:16:03.469476Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nscale-labs-0537,Nscale Labs 0537,179,2026-09-07T09:16:03.469481Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/vanta-labs-0538,Vanta Labs 0538,196,2026-09-07T09:16:03.469486Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pinecone-labs-0539,Pinecone Labs 0539,213,2026-09-07T09:16:03.469491Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/modal-labs-0540,Modal Labs 0540,230,2026-09-07T09:16:03.469495Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/baseten-labs-0541,Baseten Labs 0541,247,2026-09-07T09:16:03.469500Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/writer-labs-0542,Writer Labs 0542,264,2026-09-07T09:16:03.469508Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/tome-labs-0543,Tome Labs 0543,281,2026-09-07T09:16:03.469514Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/descript-labs-0544,Descript Labs 0544,298,2026-09-07T09:16:03.469519Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/assemblyai-labs-0545,AssemblyAI Labs 0545,315,2026-09-07T09:16:03.469525Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepl-labs-0546,DeepL Labs 0546,332,2026-09-07T09:16:03.469530Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/sakana-ai-labs-0547,Sakana AI Labs 0547,349,2026-09-07T09:16:03.469535Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/thinking-machines-labs-0548,Thinking Machines Labs 0548,366,2026-09-07T09:16:03.469541Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/poolside-labs-0549,Poolside Labs 0549,383,2026-09-07T09:16:03.469546Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/magic-labs-0550,Magic Labs 0550,400,2026-09-07T09:16:03.469550Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/openai-labs-0551,OpenAI Labs 0551,417,2026-09-07T09:16:03.469555Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anthropic-labs-0552,Anthropic Labs 0552,434,2026-09-07T09:16:03.469560Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cohere-labs-0553,Cohere Labs 0553,451,2026-09-07T09:16:03.469565Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/mistral-ai-labs-0554,Mistral AI Labs 0554,468,2026-09-07T09:16:03.469570Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/hugging-face-labs-0555,Hugging Face Labs 0555,485,2026-09-07T09:16:03.469576Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/scale-ai-labs-0556,Scale AI Labs 0556,502,2026-09-07T09:16:03.469581Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/perplexity-labs-0557,Perplexity Labs 0557,519,2026-09-07T09:16:03.469588Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/runway-labs-0558,Runway Labs 0558,536,2026-09-07T09:16:03.469593Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/character-ai-labs-0559,Character AI Labs 0559,553,2026-09-07T09:16:03.469598Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/stability-ai-labs-0560,Stability AI Labs 0560,570,2026-09-07T09:16:03.469603Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/elevenlabs-labs-0561,ElevenLabs Labs 0561,587,2026-09-07T09:16:03.469609Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cursor-labs-0562,Cursor Labs 0562,604,2026-09-07T09:16:03.469614Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replit-labs-0563,Replit Labs 0563,621,2026-09-07T09:16:03.469620Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/databricks-labs-0564,Databricks Labs 0564,638,2026-09-07T09:16:03.469625Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/snowflake-labs-0565,Snowflake Labs 0565,655,2026-09-07T09:16:03.469632Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nvidia-labs-0566,NVIDIA Labs 0566,672,2026-09-07T09:16:03.469637Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepmind-labs-0567,DeepMind Labs 0567,689,2026-09-07T09:16:03.469641Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/xai-labs-0568,xAI Labs 0568,706,2026-09-07T09:16:03.469646Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/adept-labs-0569,Adept Labs 0569,723,2026-09-07T09:16:03.469651Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/inflection-labs-0570,Inflection Labs 0570,740,2026-09-07T09:16:03.469656Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/jasper-labs-0571,Jasper Labs 0571,757,2026-09-07T09:16:03.469660Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/glean-labs-0572,Glean Labs 0572,774,2026-09-07T09:16:03.469665Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/harvey-labs-0573,Harvey Labs 0573,791,2026-09-07T09:16:03.469669Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pika-labs-0574,Pika Labs 0574,808,2026-09-07T09:16:03.469674Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/suno-labs-0575,Suno Labs 0575,825,2026-09-07T09:16:03.469698Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/together-ai-labs-0576,Together AI Labs 0576,842,2026-09-07T09:16:03.469709Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/groq-labs-0577,Groq Labs 0577,859,2026-09-07T09:16:03.469715Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replicate-labs-0578,Replicate Labs 0578,876,2026-09-07T09:16:03.469720Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/weights---biases-labs-0579,Weights & Biases Labs 0579,893,2026-09-07T09:16:03.469727Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/langchain-labs-0580,LangChain Labs 0580,910,2026-09-07T09:16:03.469733Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/luma-ai-labs-0581,Luma AI Labs 0581,927,2026-09-07T09:16:03.469742Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/figure-ai-labs-0582,Figure AI Labs 0582,944,2026-09-07T09:16:03.469747Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anduril-labs-0583,Anduril Labs 0583,961,2026-09-07T09:16:03.469752Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/wayve-labs-0584,Wayve Labs 0584,978,2026-09-07T09:16:03.469757Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/abridge-labs-0585,Abridge Labs 0585,995,2026-09-07T09:16:03.469761Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/insitro-labs-0586,Insitro Labs 0586,17,2026-09-07T09:16:03.469766Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nscale-labs-0587,Nscale Labs 0587,34,2026-09-07T09:16:03.469771Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/vanta-labs-0588,Vanta Labs 0588,51,2026-09-07T09:16:03.469776Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pinecone-labs-0589,Pinecone Labs 0589,68,2026-09-07T09:16:03.469784Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/modal-labs-0590,Modal Labs 0590,85,2026-09-07T09:16:03.469788Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/baseten-labs-0591,Baseten Labs 0591,102,2026-09-07T09:16:03.469793Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/writer-labs-0592,Writer Labs 0592,119,2026-09-07T09:16:03.469798Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/tome-labs-0593,Tome Labs 0593,136,2026-09-07T09:16:03.469803Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/descript-labs-0594,Descript Labs 0594,153,2026-09-07T09:16:03.469808Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/assemblyai-labs-0595,AssemblyAI Labs 0595,170,2026-09-07T09:16:03.469813Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepl-labs-0596,DeepL Labs 0596,187,2026-09-07T09:16:03.469817Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/sakana-ai-labs-0597,Sakana AI Labs 0597,204,2026-09-07T09:16:03.469822Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/thinking-machines-labs-0598,Thinking Machines Labs 0598,221,2026-09-07T09:16:03.469828Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/poolside-labs-0599,Poolside Labs 0599,238,2026-09-07T09:16:03.469834Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/magic-labs-0600,Magic Labs 0600,255,2026-09-07T09:16:03.469840Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/openai-labs-0601,OpenAI Labs 0601,272,2026-09-07T09:16:03.472556Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anthropic-labs-0602,Anthropic Labs 0602,289,2026-09-07T09:16:03.472565Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cohere-labs-0603,Cohere Labs 0603,306,2026-09-07T09:16:03.472570Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/mistral-ai-labs-0604,Mistral AI Labs 0604,323,2026-09-07T09:16:03.472576Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/hugging-face-labs-0605,Hugging Face Labs 0605,340,2026-09-07T09:16:03.472581Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/scale-ai-labs-0606,Scale AI Labs 0606,357,2026-09-07T09:16:03.472588Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/perplexity-labs-0607,Perplexity Labs 0607,374,2026-09-07T09:16:03.472593Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/runway-labs-0608,Runway Labs 0608,391,2026-09-07T09:16:03.472597Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/character-ai-labs-0609,Character AI Labs 0609,408,2026-09-07T09:16:03.472602Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/stability-ai-labs-0610,Stability AI Labs 0610,425,2026-09-07T09:16:03.472607Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/elevenlabs-labs-0611,ElevenLabs Labs 0611,442,2026-09-07T09:16:03.472612Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cursor-labs-0612,Cursor Labs 0612,459,2026-09-07T09:16:03.472619Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replit-labs-0613,Replit Labs 0613,476,2026-09-07T09:16:03.472626Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/databricks-labs-0614,Databricks Labs 0614,493,2026-09-07T09:16:03.472631Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/snowflake-labs-0615,Snowflake Labs 0615,510,2026-09-07T09:16:03.472636Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nvidia-labs-0616,NVIDIA Labs 0616,527,2026-09-07T09:16:03.472640Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepmind-labs-0617,DeepMind Labs 0617,544,2026-09-07T09:16:03.472645Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/xai-labs-0618,xAI Labs 0618,561,2026-09-07T09:16:03.472650Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/adept-labs-0619,Adept Labs 0619,578,2026-09-07T09:16:03.472655Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/inflection-labs-0620,Inflection Labs 0620,595,2026-09-07T09:16:03.472660Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/jasper-labs-0621,Jasper Labs 0621,612,2026-09-07T09:16:03.472664Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/glean-labs-0622,Glean Labs 0622,629,2026-09-07T09:16:03.472669Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/harvey-labs-0623,Harvey Labs 0623,646,2026-09-07T09:16:03.472673Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pika-labs-0624,Pika Labs 0624,663,2026-09-07T09:16:03.472700Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/suno-labs-0625,Suno Labs 0625,680,2026-09-07T09:16:03.472709Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/together-ai-labs-0626,Together AI Labs 0626,697,2026-09-07T09:16:03.472716Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/groq-labs-0627,Groq Labs 0627,714,2026-09-07T09:16:03.472721Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replicate-labs-0628,Replicate Labs 0628,731,2026-09-07T09:16:03.472728Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/weights---biases-labs-0629,Weights & Biases Labs 0629,748,2026-09-07T09:16:03.472734Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/langchain-labs-0630,LangChain Labs 0630,765,2026-09-07T09:16:03.472739Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/luma-ai-labs-0631,Luma AI Labs 0631,782,2026-09-07T09:16:03.472745Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/figure-ai-labs-0632,Figure AI Labs 0632,799,2026-09-07T09:16:03.472751Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anduril-labs-0633,Anduril Labs 0633,816,2026-09-07T09:16:03.472757Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/wayve-labs-0634,Wayve Labs 0634,833,2026-09-07T09:16:03.472762Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/abridge-labs-0635,Abridge Labs 0635,850,2026-09-07T09:16:03.472767Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/insitro-labs-0636,Insitro Labs 0636,867,2026-09-07T09:16:03.472772Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nscale-labs-0637,Nscale Labs 0637,884,2026-09-07T09:16:03.472777Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/vanta-labs-0638,Vanta Labs 0638,901,2026-09-07T09:16:03.472781Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pinecone-labs-0639,Pinecone Labs 0639,918,2026-09-07T09:16:03.472786Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/modal-labs-0640,Modal Labs 0640,935,2026-09-07T09:16:03.472791Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/baseten-labs-0641,Baseten Labs 0641,952,2026-09-07T09:16:03.472796Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/writer-labs-0642,Writer Labs 0642,969,2026-09-07T09:16:03.472801Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/tome-labs-0643,Tome Labs 0643,986,2026-09-07T09:16:03.472805Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/descript-labs-0644,Descript Labs 0644,8,2026-09-07T09:16:03.472811Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/assemblyai-labs-0645,AssemblyAI Labs 0645,25,2026-09-07T09:16:03.472818Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepl-labs-0646,DeepL Labs 0646,42,2026-09-07T09:16:03.472823Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/sakana-ai-labs-0647,Sakana AI Labs 0647,59,2026-09-07T09:16:03.472829Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/thinking-machines-labs-0648,Thinking Machines Labs 0648,76,2026-09-07T09:16:03.472835Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/poolside-labs-0649,Poolside Labs 0649,93,2026-09-07T09:16:03.472842Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/magic-labs-0650,Magic Labs 0650,110,2026-09-07T09:16:03.472846Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/openai-labs-0651,OpenAI Labs 0651,127,2026-09-07T09:16:03.472853Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anthropic-labs-0652,Anthropic Labs 0652,144,2026-09-07T09:16:03.472857Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cohere-labs-0653,Cohere Labs 0653,161,2026-09-07T09:16:03.472863Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/mistral-ai-labs-0654,Mistral AI Labs 0654,178,2026-09-07T09:16:03.472868Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/hugging-face-labs-0655,Hugging Face Labs 0655,195,2026-09-07T09:16:03.472874Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/scale-ai-labs-0656,Scale AI Labs 0656,212,2026-09-07T09:16:03.472880Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/perplexity-labs-0657,Perplexity Labs 0657,229,2026-09-07T09:16:03.472885Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/runway-labs-0658,Runway Labs 0658,246,2026-09-07T09:16:03.472890Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/character-ai-labs-0659,Character AI Labs 0659,263,2026-09-07T09:16:03.472895Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/stability-ai-labs-0660,Stability AI Labs 0660,280,2026-09-07T09:16:03.472900Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/elevenlabs-labs-0661,ElevenLabs Labs 0661,297,2026-09-07T09:16:03.472906Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cursor-labs-0662,Cursor Labs 0662,314,2026-09-07T09:16:03.472911Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replit-labs-0663,Replit Labs 0663,331,2026-09-07T09:16:03.472916Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/databricks-labs-0664,Databricks Labs 0664,348,2026-09-07T09:16:03.472922Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/snowflake-labs-0665,Snowflake Labs 0665,365,2026-09-07T09:16:03.472926Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nvidia-labs-0666,NVIDIA Labs 0666,382,2026-09-07T09:16:03.472931Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepmind-labs-0667,DeepMind Labs 0667,399,2026-09-07T09:16:03.472939Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/xai-labs-0668,xAI Labs 0668,416,2026-09-07T09:16:03.472943Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/adept-labs-0669,Adept Labs 0669,433,2026-09-07T09:16:03.472948Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/inflection-labs-0670,Inflection Labs 0670,450,2026-09-07T09:16:03.472953Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/jasper-labs-0671,Jasper Labs 0671,467,2026-09-07T09:16:03.472959Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/glean-labs-0672,Glean Labs 0672,484,2026-09-07T09:16:03.472964Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/harvey-labs-0673,Harvey Labs 0673,501,2026-09-07T09:16:03.472970Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pika-labs-0674,Pika Labs 0674,518,2026-09-07T09:16:03.472975Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/suno-labs-0675,Suno Labs 0675,535,2026-09-07T09:16:03.472979Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/together-ai-labs-0676,Together AI Labs 0676,552,2026-09-07T09:16:03.472985Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/groq-labs-0677,Groq Labs 0677,569,2026-09-07T09:16:03.472989Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replicate-labs-0678,Replicate Labs 0678,586,2026-09-07T09:16:03.472994Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/weights---biases-labs-0679,Weights & Biases Labs 0679,603,2026-09-07T09:16:03.473000Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/langchain-labs-0680,LangChain Labs 0680,620,2026-09-07T09:16:03.473005Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/luma-ai-labs-0681,Luma AI Labs 0681,637,2026-09-07T09:16:03.473010Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/figure-ai-labs-0682,Figure AI Labs 0682,654,2026-09-07T09:16:03.473015Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anduril-labs-0683,Anduril Labs 0683,671,2026-09-07T09:16:03.473019Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/wayve-labs-0684,Wayve Labs 0684,688,2026-09-07T09:16:03.473024Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/abridge-labs-0685,Abridge Labs 0685,705,2026-09-07T09:16:03.473030Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/insitro-labs-0686,Insitro Labs 0686,722,2026-09-07T09:16:03.473035Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nscale-labs-0687,Nscale Labs 0687,739,2026-09-07T09:16:03.473039Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/vanta-labs-0688,Vanta Labs 0688,756,2026-09-07T09:16:03.473044Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pinecone-labs-0689,Pinecone Labs 0689,773,2026-09-07T09:16:03.473049Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/modal-labs-0690,Modal Labs 0690,790,2026-09-07T09:16:03.473054Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/baseten-labs-0691,Baseten Labs 0691,807,2026-09-07T09:16:03.473059Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/writer-labs-0692,Writer Labs 0692,824,2026-09-07T09:16:03.473064Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/tome-labs-0693,Tome Labs 0693,841,2026-09-07T09:16:03.473068Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/descript-labs-0694,Descript Labs 0694,858,2026-09-07T09:16:03.473073Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/assemblyai-labs-0695,AssemblyAI Labs 0695,875,2026-09-07T09:16:03.473078Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepl-labs-0696,DeepL Labs 0696,892,2026-09-07T09:16:03.473082Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/sakana-ai-labs-0697,Sakana AI Labs 0697,909,2026-09-07T09:16:03.473087Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/thinking-machines-labs-0698,Thinking Machines Labs 0698,926,2026-09-07T09:16:03.473093Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/poolside-labs-0699,Poolside Labs 0699,943,2026-09-07T09:16:03.473099Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/magic-labs-0700,Magic Labs 0700,960,2026-09-07T09:16:03.473104Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/openai-labs-0701,OpenAI Labs 0701,977,2026-09-07T09:16:03.478836Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anthropic-labs-0702,Anthropic Labs 0702,994,2026-09-07T09:16:03.478843Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cohere-labs-0703,Cohere Labs 0703,16,2026-09-07T09:16:03.478849Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/mistral-ai-labs-0704,Mistral AI Labs 0704,33,2026-09-07T09:16:03.478854Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/hugging-face-labs-0705,Hugging Face Labs 0705,50,2026-09-07T09:16:03.478860Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/scale-ai-labs-0706,Scale AI Labs 0706,67,2026-09-07T09:16:03.478865Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/perplexity-labs-0707,Perplexity Labs 0707,84,2026-09-07T09:16:03.478870Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/runway-labs-0708,Runway Labs 0708,101,2026-09-07T09:16:03.478875Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/character-ai-labs-0709,Character AI Labs 0709,118,2026-09-07T09:16:03.478882Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/stability-ai-labs-0710,Stability AI Labs 0710,135,2026-09-07T09:16:03.478887Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/elevenlabs-labs-0711,ElevenLabs Labs 0711,152,2026-09-07T09:16:03.478894Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cursor-labs-0712,Cursor Labs 0712,169,2026-09-07T09:16:03.478899Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replit-labs-0713,Replit Labs 0713,186,2026-09-07T09:16:03.478904Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/databricks-labs-0714,Databricks Labs 0714,203,2026-09-07T09:16:03.478909Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/snowflake-labs-0715,Snowflake Labs 0715,220,2026-09-07T09:16:03.478914Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nvidia-labs-0716,NVIDIA Labs 0716,237,2026-09-07T09:16:03.478918Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepmind-labs-0717,DeepMind Labs 0717,254,2026-09-07T09:16:03.478924Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/xai-labs-0718,xAI Labs 0718,271,2026-09-07T09:16:03.478929Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/adept-labs-0719,Adept Labs 0719,288,2026-09-07T09:16:03.478934Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/inflection-labs-0720,Inflection Labs 0720,305,2026-09-07T09:16:03.478939Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/jasper-labs-0721,Jasper Labs 0721,322,2026-09-07T09:16:03.478944Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/glean-labs-0722,Glean Labs 0722,339,2026-09-07T09:16:03.478949Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/harvey-labs-0723,Harvey Labs 0723,356,2026-09-07T09:16:03.478954Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pika-labs-0724,Pika Labs 0724,373,2026-09-07T09:16:03.478959Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/suno-labs-0725,Suno Labs 0725,390,2026-09-07T09:16:03.478963Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/together-ai-labs-0726,Together AI Labs 0726,407,2026-09-07T09:16:03.478969Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/groq-labs-0727,Groq Labs 0727,424,2026-09-07T09:16:03.478973Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replicate-labs-0728,Replicate Labs 0728,441,2026-09-07T09:16:03.478979Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/weights---biases-labs-0729,Weights & Biases Labs 0729,458,2026-09-07T09:16:03.478984Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/langchain-labs-0730,LangChain Labs 0730,475,2026-09-07T09:16:03.478989Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/luma-ai-labs-0731,Luma AI Labs 0731,492,2026-09-07T09:16:03.478994Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/figure-ai-labs-0732,Figure AI Labs 0732,509,2026-09-07T09:16:03.478999Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anduril-labs-0733,Anduril Labs 0733,526,2026-09-07T09:16:03.479004Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/wayve-labs-0734,Wayve Labs 0734,543,2026-09-07T09:16:03.479009Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/abridge-labs-0735,Abridge Labs 0735,560,2026-09-07T09:16:03.479015Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/insitro-labs-0736,Insitro Labs 0736,577,2026-09-07T09:16:03.479020Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nscale-labs-0737,Nscale Labs 0737,594,2026-09-07T09:16:03.479024Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/vanta-labs-0738,Vanta Labs 0738,611,2026-09-07T09:16:03.479029Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pinecone-labs-0739,Pinecone Labs 0739,628,2026-09-07T09:16:03.479034Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/modal-labs-0740,Modal Labs 0740,645,2026-09-07T09:16:03.479038Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/baseten-labs-0741,Baseten Labs 0741,662,2026-09-07T09:16:03.479044Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/writer-labs-0742,Writer Labs 0742,679,2026-09-07T09:16:03.479049Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/tome-labs-0743,Tome Labs 0743,696,2026-09-07T09:16:03.479054Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/descript-labs-0744,Descript Labs 0744,713,2026-09-07T09:16:03.479060Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/assemblyai-labs-0745,AssemblyAI Labs 0745,730,2026-09-07T09:16:03.479065Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepl-labs-0746,DeepL Labs 0746,747,2026-09-07T09:16:03.479070Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/sakana-ai-labs-0747,Sakana AI Labs 0747,764,2026-09-07T09:16:03.479077Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/thinking-machines-labs-0748,Thinking Machines Labs 0748,781,2026-09-07T09:16:03.479083Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/poolside-labs-0749,Poolside Labs 0749,798,2026-09-07T09:16:03.479087Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/magic-labs-0750,Magic Labs 0750,815,2026-09-07T09:16:03.479092Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/openai-labs-0751,OpenAI Labs 0751,832,2026-09-07T09:16:03.479097Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anthropic-labs-0752,Anthropic Labs 0752,849,2026-09-07T09:16:03.479102Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cohere-labs-0753,Cohere Labs 0753,866,2026-09-07T09:16:03.479108Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/mistral-ai-labs-0754,Mistral AI Labs 0754,883,2026-09-07T09:16:03.479113Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/hugging-face-labs-0755,Hugging Face Labs 0755,900,2026-09-07T09:16:03.479118Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/scale-ai-labs-0756,Scale AI Labs 0756,917,2026-09-07T09:16:03.479123Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/perplexity-labs-0757,Perplexity Labs 0757,934,2026-09-07T09:16:03.479128Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/runway-labs-0758,Runway Labs 0758,951,2026-09-07T09:16:03.479132Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/character-ai-labs-0759,Character AI Labs 0759,968,2026-09-07T09:16:03.479137Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/stability-ai-labs-0760,Stability AI Labs 0760,985,2026-09-07T09:16:03.479144Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/elevenlabs-labs-0761,ElevenLabs Labs 0761,7,2026-09-07T09:16:03.479150Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cursor-labs-0762,Cursor Labs 0762,24,2026-09-07T09:16:03.479155Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replit-labs-0763,Replit Labs 0763,41,2026-09-07T09:16:03.479160Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/databricks-labs-0764,Databricks Labs 0764,58,2026-09-07T09:16:03.479165Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/snowflake-labs-0765,Snowflake Labs 0765,75,2026-09-07T09:16:03.479170Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nvidia-labs-0766,NVIDIA Labs 0766,92,2026-09-07T09:16:03.479175Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepmind-labs-0767,DeepMind Labs 0767,109,2026-09-07T09:16:03.479180Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/xai-labs-0768,xAI Labs 0768,126,2026-09-07T09:16:03.479184Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/adept-labs-0769,Adept Labs 0769,143,2026-09-07T09:16:03.479189Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/inflection-labs-0770,Inflection Labs 0770,160,2026-09-07T09:16:03.479194Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/jasper-labs-0771,Jasper Labs 0771,177,2026-09-07T09:16:03.479200Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/glean-labs-0772,Glean Labs 0772,194,2026-09-07T09:16:03.479204Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/harvey-labs-0773,Harvey Labs 0773,211,2026-09-07T09:16:03.479209Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pika-labs-0774,Pika Labs 0774,228,2026-09-07T09:16:03.479213Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/suno-labs-0775,Suno Labs 0775,245,2026-09-07T09:16:03.479217Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/together-ai-labs-0776,Together AI Labs 0776,262,2026-09-07T09:16:03.479224Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/groq-labs-0777,Groq Labs 0777,279,2026-09-07T09:16:03.479229Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replicate-labs-0778,Replicate Labs 0778,296,2026-09-07T09:16:03.479234Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/weights---biases-labs-0779,Weights & Biases Labs 0779,313,2026-09-07T09:16:03.479239Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/langchain-labs-0780,LangChain Labs 0780,330,2026-09-07T09:16:03.479246Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/luma-ai-labs-0781,Luma AI Labs 0781,347,2026-09-07T09:16:03.479254Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/figure-ai-labs-0782,Figure AI Labs 0782,364,2026-09-07T09:16:03.479261Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anduril-labs-0783,Anduril Labs 0783,381,2026-09-07T09:16:03.479268Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/wayve-labs-0784,Wayve Labs 0784,398,2026-09-07T09:16:03.479276Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/abridge-labs-0785,Abridge Labs 0785,415,2026-09-07T09:16:03.479282Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/insitro-labs-0786,Insitro Labs 0786,432,2026-09-07T09:16:03.479289Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nscale-labs-0787,Nscale Labs 0787,449,2026-09-07T09:16:03.479296Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/vanta-labs-0788,Vanta Labs 0788,466,2026-09-07T09:16:03.479304Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pinecone-labs-0789,Pinecone Labs 0789,483,2026-09-07T09:16:03.479312Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/modal-labs-0790,Modal Labs 0790,500,2026-09-07T09:16:03.479317Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/baseten-labs-0791,Baseten Labs 0791,517,2026-09-07T09:16:03.479322Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/writer-labs-0792,Writer Labs 0792,534,2026-09-07T09:16:03.479326Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/tome-labs-0793,Tome Labs 0793,551,2026-09-07T09:16:03.479331Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/descript-labs-0794,Descript Labs 0794,568,2026-09-07T09:16:03.479336Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/assemblyai-labs-0795,AssemblyAI Labs 0795,585,2026-09-07T09:16:03.479342Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepl-labs-0796,DeepL Labs 0796,602,2026-09-07T09:16:03.479348Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/sakana-ai-labs-0797,Sakana AI Labs 0797,619,2026-09-07T09:16:03.479353Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/thinking-machines-labs-0798,Thinking Machines Labs 0798,636,2026-09-07T09:16:03.479359Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/poolside-labs-0799,Poolside Labs 0799,653,2026-09-07T09:16:03.479364Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/magic-labs-0800,Magic Labs 0800,670,2026-09-07T09:16:03.479371Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/openai-labs-0801,OpenAI Labs 0801,687,2026-09-07T09:16:03.482049Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anthropic-labs-0802,Anthropic Labs 0802,704,2026-09-07T09:16:03.482056Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cohere-labs-0803,Cohere Labs 0803,721,2026-09-07T09:16:03.482063Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/mistral-ai-labs-0804,Mistral AI Labs 0804,738,2026-09-07T09:16:03.482069Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/hugging-face-labs-0805,Hugging Face Labs 0805,755,2026-09-07T09:16:03.482074Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/scale-ai-labs-0806,Scale AI Labs 0806,772,2026-09-07T09:16:03.482080Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/perplexity-labs-0807,Perplexity Labs 0807,789,2026-09-07T09:16:03.482085Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/runway-labs-0808,Runway Labs 0808,806,2026-09-07T09:16:03.482090Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/character-ai-labs-0809,Character AI Labs 0809,823,2026-09-07T09:16:03.482095Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/stability-ai-labs-0810,Stability AI Labs 0810,840,2026-09-07T09:16:03.482100Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/elevenlabs-labs-0811,ElevenLabs Labs 0811,857,2026-09-07T09:16:03.482105Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cursor-labs-0812,Cursor Labs 0812,874,2026-09-07T09:16:03.482111Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replit-labs-0813,Replit Labs 0813,891,2026-09-07T09:16:03.482116Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/databricks-labs-0814,Databricks Labs 0814,908,2026-09-07T09:16:03.482121Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/snowflake-labs-0815,Snowflake Labs 0815,925,2026-09-07T09:16:03.482126Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nvidia-labs-0816,NVIDIA Labs 0816,942,2026-09-07T09:16:03.482130Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepmind-labs-0817,DeepMind Labs 0817,959,2026-09-07T09:16:03.482135Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/xai-labs-0818,xAI Labs 0818,976,2026-09-07T09:16:03.482140Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/adept-labs-0819,Adept Labs 0819,993,2026-09-07T09:16:03.482144Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/inflection-labs-0820,Inflection Labs 0820,15,2026-09-07T09:16:03.482184Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/jasper-labs-0821,Jasper Labs 0821,32,2026-09-07T09:16:03.482197Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/glean-labs-0822,Glean Labs 0822,49,2026-09-07T09:16:03.482203Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/harvey-labs-0823,Harvey Labs 0823,66,2026-09-07T09:16:03.482208Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pika-labs-0824,Pika Labs 0824,83,2026-09-07T09:16:03.482213Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/suno-labs-0825,Suno Labs 0825,100,2026-09-07T09:16:03.482217Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/together-ai-labs-0826,Together AI Labs 0826,117,2026-09-07T09:16:03.482223Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/groq-labs-0827,Groq Labs 0827,134,2026-09-07T09:16:03.482227Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replicate-labs-0828,Replicate Labs 0828,151,2026-09-07T09:16:03.482232Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/weights---biases-labs-0829,Weights & Biases Labs 0829,168,2026-09-07T09:16:03.482239Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/langchain-labs-0830,LangChain Labs 0830,185,2026-09-07T09:16:03.482244Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/luma-ai-labs-0831,Luma AI Labs 0831,202,2026-09-07T09:16:03.482250Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/figure-ai-labs-0832,Figure AI Labs 0832,219,2026-09-07T09:16:03.482255Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anduril-labs-0833,Anduril Labs 0833,236,2026-09-07T09:16:03.482260Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/wayve-labs-0834,Wayve Labs 0834,253,2026-09-07T09:16:03.482264Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/abridge-labs-0835,Abridge Labs 0835,270,2026-09-07T09:16:03.482276Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/insitro-labs-0836,Insitro Labs 0836,287,2026-09-07T09:16:03.482286Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nscale-labs-0837,Nscale Labs 0837,304,2026-09-07T09:16:03.482300Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/vanta-labs-0838,Vanta Labs 0838,321,2026-09-07T09:16:03.482308Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pinecone-labs-0839,Pinecone Labs 0839,338,2026-09-07T09:16:03.482315Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/modal-labs-0840,Modal Labs 0840,355,2026-09-07T09:16:03.482319Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/baseten-labs-0841,Baseten Labs 0841,372,2026-09-07T09:16:03.482325Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/writer-labs-0842,Writer Labs 0842,389,2026-09-07T09:16:03.482330Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/tome-labs-0843,Tome Labs 0843,406,2026-09-07T09:16:03.482335Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/descript-labs-0844,Descript Labs 0844,423,2026-09-07T09:16:03.482340Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/assemblyai-labs-0845,AssemblyAI Labs 0845,440,2026-09-07T09:16:03.482345Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepl-labs-0846,DeepL Labs 0846,457,2026-09-07T09:16:03.482350Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/sakana-ai-labs-0847,Sakana AI Labs 0847,474,2026-09-07T09:16:03.482355Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/thinking-machines-labs-0848,Thinking Machines Labs 0848,491,2026-09-07T09:16:03.482363Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/poolside-labs-0849,Poolside Labs 0849,508,2026-09-07T09:16:03.482368Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/magic-labs-0850,Magic Labs 0850,525,2026-09-07T09:16:03.482373Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/openai-labs-0851,OpenAI Labs 0851,542,2026-09-07T09:16:03.482379Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anthropic-labs-0852,Anthropic Labs 0852,559,2026-09-07T09:16:03.482384Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cohere-labs-0853,Cohere Labs 0853,576,2026-09-07T09:16:03.482389Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/mistral-ai-labs-0854,Mistral AI Labs 0854,593,2026-09-07T09:16:03.482396Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/hugging-face-labs-0855,Hugging Face Labs 0855,610,2026-09-07T09:16:03.482401Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/scale-ai-labs-0856,Scale AI Labs 0856,627,2026-09-07T09:16:03.482406Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/perplexity-labs-0857,Perplexity Labs 0857,644,2026-09-07T09:16:03.482413Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/runway-labs-0858,Runway Labs 0858,661,2026-09-07T09:16:03.482418Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/character-ai-labs-0859,Character AI Labs 0859,678,2026-09-07T09:16:03.482424Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/stability-ai-labs-0860,Stability AI Labs 0860,695,2026-09-07T09:16:03.482430Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/elevenlabs-labs-0861,ElevenLabs Labs 0861,712,2026-09-07T09:16:03.482435Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cursor-labs-0862,Cursor Labs 0862,729,2026-09-07T09:16:03.482440Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replit-labs-0863,Replit Labs 0863,746,2026-09-07T09:16:03.482445Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/databricks-labs-0864,Databricks Labs 0864,763,2026-09-07T09:16:03.482450Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/snowflake-labs-0865,Snowflake Labs 0865,780,2026-09-07T09:16:03.482455Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nvidia-labs-0866,NVIDIA Labs 0866,797,2026-09-07T09:16:03.482460Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepmind-labs-0867,DeepMind Labs 0867,814,2026-09-07T09:16:03.482465Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/xai-labs-0868,xAI Labs 0868,831,2026-09-07T09:16:03.482469Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/adept-labs-0869,Adept Labs 0869,848,2026-09-07T09:16:03.482474Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/inflection-labs-0870,Inflection Labs 0870,865,2026-09-07T09:16:03.482480Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/jasper-labs-0871,Jasper Labs 0871,882,2026-09-07T09:16:03.482485Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/glean-labs-0872,Glean Labs 0872,899,2026-09-07T09:16:03.482490Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/harvey-labs-0873,Harvey Labs 0873,916,2026-09-07T09:16:03.482494Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pika-labs-0874,Pika Labs 0874,933,2026-09-07T09:16:03.482499Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/suno-labs-0875,Suno Labs 0875,950,2026-09-07T09:16:03.482505Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/together-ai-labs-0876,Together AI Labs 0876,967,2026-09-07T09:16:03.482510Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/groq-labs-0877,Groq Labs 0877,984,2026-09-07T09:16:03.482515Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replicate-labs-0878,Replicate Labs 0878,6,2026-09-07T09:16:03.482520Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/weights---biases-labs-0879,Weights & Biases Labs 0879,23,2026-09-07T09:16:03.482526Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/langchain-labs-0880,LangChain Labs 0880,40,2026-09-07T09:16:03.482531Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/luma-ai-labs-0881,Luma AI Labs 0881,57,2026-09-07T09:16:03.482536Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/figure-ai-labs-0882,Figure AI Labs 0882,74,2026-09-07T09:16:03.482541Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anduril-labs-0883,Anduril Labs 0883,91,2026-09-07T09:16:03.482546Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/wayve-labs-0884,Wayve Labs 0884,108,2026-09-07T09:16:03.482551Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/abridge-labs-0885,Abridge Labs 0885,125,2026-09-07T09:16:03.482556Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/insitro-labs-0886,Insitro Labs 0886,142,2026-09-07T09:16:03.482562Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nscale-labs-0887,Nscale Labs 0887,159,2026-09-07T09:16:03.482569Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/vanta-labs-0888,Vanta Labs 0888,176,2026-09-07T09:16:03.482573Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pinecone-labs-0889,Pinecone Labs 0889,193,2026-09-07T09:16:03.482578Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/modal-labs-0890,Modal Labs 0890,210,2026-09-07T09:16:03.482585Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/baseten-labs-0891,Baseten Labs 0891,227,2026-09-07T09:16:03.482590Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/writer-labs-0892,Writer Labs 0892,244,2026-09-07T09:16:03.482594Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/tome-labs-0893,Tome Labs 0893,261,2026-09-07T09:16:03.482600Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/descript-labs-0894,Descript Labs 0894,278,2026-09-07T09:16:03.482605Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/assemblyai-labs-0895,AssemblyAI Labs 0895,295,2026-09-07T09:16:03.482612Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepl-labs-0896,DeepL Labs 0896,312,2026-09-07T09:16:03.482616Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/sakana-ai-labs-0897,Sakana AI Labs 0897,329,2026-09-07T09:16:03.482622Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/thinking-machines-labs-0898,Thinking Machines Labs 0898,346,2026-09-07T09:16:03.482628Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/poolside-labs-0899,Poolside Labs 0899,363,2026-09-07T09:16:03.482633Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/magic-labs-0900,Magic Labs 0900,380,2026-09-07T09:16:03.482637Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/openai-labs-0901,OpenAI Labs 0901,397,2026-09-07T09:16:03.485138Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anthropic-labs-0902,Anthropic Labs 0902,414,2026-09-07T09:16:03.485144Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cohere-labs-0903,Cohere Labs 0903,431,2026-09-07T09:16:03.485149Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/mistral-ai-labs-0904,Mistral AI Labs 0904,448,2026-09-07T09:16:03.485155Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/hugging-face-labs-0905,Hugging Face Labs 0905,465,2026-09-07T09:16:03.485160Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/scale-ai-labs-0906,Scale AI Labs 0906,482,2026-09-07T09:16:03.485165Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/perplexity-labs-0907,Perplexity Labs 0907,499,2026-09-07T09:16:03.485171Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/runway-labs-0908,Runway Labs 0908,516,2026-09-07T09:16:03.485176Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/character-ai-labs-0909,Character AI Labs 0909,533,2026-09-07T09:16:03.485181Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/stability-ai-labs-0910,Stability AI Labs 0910,550,2026-09-07T09:16:03.485186Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/elevenlabs-labs-0911,ElevenLabs Labs 0911,567,2026-09-07T09:16:03.485191Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cursor-labs-0912,Cursor Labs 0912,584,2026-09-07T09:16:03.485196Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replit-labs-0913,Replit Labs 0913,601,2026-09-07T09:16:03.485200Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/databricks-labs-0914,Databricks Labs 0914,618,2026-09-07T09:16:03.485205Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/snowflake-labs-0915,Snowflake Labs 0915,635,2026-09-07T09:16:03.485210Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nvidia-labs-0916,NVIDIA Labs 0916,652,2026-09-07T09:16:03.485214Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepmind-labs-0917,DeepMind Labs 0917,669,2026-09-07T09:16:03.485219Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/xai-labs-0918,xAI Labs 0918,686,2026-09-07T09:16:03.485224Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/adept-labs-0919,Adept Labs 0919,703,2026-09-07T09:16:03.485228Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/inflection-labs-0920,Inflection Labs 0920,720,2026-09-07T09:16:03.485233Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/jasper-labs-0921,Jasper Labs 0921,737,2026-09-07T09:16:03.485238Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/glean-labs-0922,Glean Labs 0922,754,2026-09-07T09:16:03.485243Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/harvey-labs-0923,Harvey Labs 0923,771,2026-09-07T09:16:03.485247Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pika-labs-0924,Pika Labs 0924,788,2026-09-07T09:16:03.485252Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/suno-labs-0925,Suno Labs 0925,805,2026-09-07T09:16:03.485258Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/together-ai-labs-0926,Together AI Labs 0926,822,2026-09-07T09:16:03.485264Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/groq-labs-0927,Groq Labs 0927,839,2026-09-07T09:16:03.485269Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replicate-labs-0928,Replicate Labs 0928,856,2026-09-07T09:16:03.485275Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/weights---biases-labs-0929,Weights & Biases Labs 0929,873,2026-09-07T09:16:03.485281Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/langchain-labs-0930,LangChain Labs 0930,890,2026-09-07T09:16:03.485286Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/luma-ai-labs-0931,Luma AI Labs 0931,907,2026-09-07T09:16:03.485294Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/figure-ai-labs-0932,Figure AI Labs 0932,924,2026-09-07T09:16:03.485300Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anduril-labs-0933,Anduril Labs 0933,941,2026-09-07T09:16:03.485305Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/wayve-labs-0934,Wayve Labs 0934,958,2026-09-07T09:16:03.485310Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/abridge-labs-0935,Abridge Labs 0935,975,2026-09-07T09:16:03.485316Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/insitro-labs-0936,Insitro Labs 0936,992,2026-09-07T09:16:03.485321Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nscale-labs-0937,Nscale Labs 0937,14,2026-09-07T09:16:03.485326Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/vanta-labs-0938,Vanta Labs 0938,31,2026-09-07T09:16:03.485331Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pinecone-labs-0939,Pinecone Labs 0939,48,2026-09-07T09:16:03.485336Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/modal-labs-0940,Modal Labs 0940,65,2026-09-07T09:16:03.485341Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/baseten-labs-0941,Baseten Labs 0941,82,2026-09-07T09:16:03.485348Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/writer-labs-0942,Writer Labs 0942,99,2026-09-07T09:16:03.485353Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/tome-labs-0943,Tome Labs 0943,116,2026-09-07T09:16:03.485359Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/descript-labs-0944,Descript Labs 0944,133,2026-09-07T09:16:03.485364Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/assemblyai-labs-0945,AssemblyAI Labs 0945,150,2026-09-07T09:16:03.485369Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepl-labs-0946,DeepL Labs 0946,167,2026-09-07T09:16:03.485374Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/sakana-ai-labs-0947,Sakana AI Labs 0947,184,2026-09-07T09:16:03.485379Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/thinking-machines-labs-0948,Thinking Machines Labs 0948,201,2026-09-07T09:16:03.485385Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/poolside-labs-0949,Poolside Labs 0949,218,2026-09-07T09:16:03.485389Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/magic-labs-0950,Magic Labs 0950,235,2026-09-07T09:16:03.485394Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/openai-labs-0951,OpenAI Labs 0951,252,2026-09-07T09:16:03.485399Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anthropic-labs-0952,Anthropic Labs 0952,269,2026-09-07T09:16:03.485404Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cohere-labs-0953,Cohere Labs 0953,286,2026-09-07T09:16:03.485408Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/mistral-ai-labs-0954,Mistral AI Labs 0954,303,2026-09-07T09:16:03.485413Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/hugging-face-labs-0955,Hugging Face Labs 0955,320,2026-09-07T09:16:03.485419Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/scale-ai-labs-0956,Scale AI Labs 0956,337,2026-09-07T09:16:03.485424Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/perplexity-labs-0957,Perplexity Labs 0957,354,2026-09-07T09:16:03.485429Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/runway-labs-0958,Runway Labs 0958,371,2026-09-07T09:16:03.485434Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/character-ai-labs-0959,Character AI Labs 0959,388,2026-09-07T09:16:03.485439Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/stability-ai-labs-0960,Stability AI Labs 0960,405,2026-09-07T09:16:03.485445Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/elevenlabs-labs-0961,ElevenLabs Labs 0961,422,2026-09-07T09:16:03.485451Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/cursor-labs-0962,Cursor Labs 0962,439,2026-09-07T09:16:03.485456Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replit-labs-0963,Replit Labs 0963,456,2026-09-07T09:16:03.485460Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/databricks-labs-0964,Databricks Labs 0964,473,2026-09-07T09:16:03.485467Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/snowflake-labs-0965,Snowflake Labs 0965,490,2026-09-07T09:16:03.485472Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nvidia-labs-0966,NVIDIA Labs 0966,507,2026-09-07T09:16:03.485476Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepmind-labs-0967,DeepMind Labs 0967,524,2026-09-07T09:16:03.485481Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/xai-labs-0968,xAI Labs 0968,541,2026-09-07T09:16:03.485486Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/adept-labs-0969,Adept Labs 0969,558,2026-09-07T09:16:03.485490Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/inflection-labs-0970,Inflection Labs 0970,575,2026-09-07T09:16:03.485495Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/jasper-labs-0971,Jasper Labs 0971,592,2026-09-07T09:16:03.485499Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/glean-labs-0972,Glean Labs 0972,609,2026-09-07T09:16:03.485504Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/harvey-labs-0973,Harvey Labs 0973,626,2026-09-07T09:16:03.485509Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pika-labs-0974,Pika Labs 0974,643,2026-09-07T09:16:03.485514Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/suno-labs-0975,Suno Labs 0975,660,2026-09-07T09:16:03.485518Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/together-ai-labs-0976,Together AI Labs 0976,677,2026-09-07T09:16:03.485523Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/groq-labs-0977,Groq Labs 0977,694,2026-09-07T09:16:03.485528Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/replicate-labs-0978,Replicate Labs 0978,711,2026-09-07T09:16:03.485534Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/weights---biases-labs-0979,Weights & Biases Labs 0979,728,2026-09-07T09:16:03.485541Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/langchain-labs-0980,LangChain Labs 0980,745,2026-09-07T09:16:03.485548Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/luma-ai-labs-0981,Luma AI Labs 0981,762,2026-09-07T09:16:03.485553Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/figure-ai-labs-0982,Figure AI Labs 0982,779,2026-09-07T09:16:03.485558Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/anduril-labs-0983,Anduril Labs 0983,796,2026-09-07T09:16:03.485563Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/wayve-labs-0984,Wayve Labs 0984,813,2026-09-07T09:16:03.485567Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/abridge-labs-0985,Abridge Labs 0985,830,2026-09-07T09:16:03.485572Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/insitro-labs-0986,Insitro Labs 0986,847,2026-09-07T09:16:03.485577Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/nscale-labs-0987,Nscale Labs 0987,864,2026-09-07T09:16:03.485582Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/vanta-labs-0988,Vanta Labs 0988,881,2026-09-07T09:16:03.485587Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/pinecone-labs-0989,Pinecone Labs 0989,898,2026-09-07T09:16:03.485592Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/modal-labs-0990,Modal Labs 0990,915,2026-09-07T09:16:03.485596Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/baseten-labs-0991,Baseten Labs 0991,932,2026-09-07T09:16:03.485601Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/writer-labs-0992,Writer Labs 0992,949,2026-09-07T09:16:03.485606Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/tome-labs-0993,Tome Labs 0993,966,2026-09-07T09:16:03.485610Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/descript-labs-0994,Descript Labs 0994,983,2026-09-07T09:16:03.485615Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/assemblyai-labs-0995,AssemblyAI Labs 0995,5,2026-09-07T09:16:03.485620Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/deepl-labs-0996,DeepL Labs 0996,22,2026-09-07T09:16:03.485626Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/sakana-ai-labs-0997,Sakana AI Labs 0997,39,2026-09-07T09:16:03.485632Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/thinking-machines-labs-0998,Thinking Machines Labs 0998,56,2026-09-07T09:16:03.485638Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/poolside-labs-0999,Poolside Labs 0999,73,2026-09-07T09:16:03.485644Z
+1.0,STARTUP,FrontierAtlas directory fixture,https://www.crunchbase.com/organization/magic-labs-1000,Magic Labs 1000,90,2026-09-07T09:16:03.485649Z
