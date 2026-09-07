@@ -1,0 +1,8 @@
+pandas
+pydantic
+httpx
+asyncio
+rapidfuzz
+tenacity
+python-dotenv
+reportlab
