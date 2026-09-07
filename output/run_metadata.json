@@ -1,0 +1,13 @@
+{
+  "mode": "deterministic-fixture",
+  "count_per_vertical": 1000,
+  "source_evidence_note": "Fixture mode is synthetic and clearly labeled; do not present it as live intelligence.",
+  "files": {
+    "startups.csv": 1000,
+    "products.csv": 1000,
+    "research_papers.csv": 1000,
+    "jobs.csv": 1000,
+    "news.csv": 1000,
+    "entity_mapping_log.csv": 1005
+  }
+}
